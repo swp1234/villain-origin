@@ -1,0 +1,76 @@
+{
+    "meta": {
+        "title": "Teste de Origem do Vilao | DopaBrain",
+        "description": "Descubra sua historia de origem vilao! 16 escolhas binarias rapidas revelam seu arquetipo de vilao."
+    },
+    "a11y": {
+        "skip": "Pular para o conteudo"
+    },
+    "app": {
+        "title": "Teste de Origem do Vilao",
+        "subtitle": "O que te tornou o vilao?",
+        "description": "16 escolhas binarias rapidas. Sem pensar, so instinto. Toque esquerda ou direita para revelar sua historia de origem vilao.",
+        "start": "Revelar Minha Origem"
+    },
+    "quiz": {
+        "combo": "{count}x COMBO"
+    },
+    "pairs": {
+        "p1":  { "left": "Vinganca",          "right": "Perdao" },
+        "p2":  { "left": "Poder",             "right": "Conexao" },
+        "p3":  { "left": "Ser mais esperto",  "right": "Dominar pela forca" },
+        "p4":  { "left": "Trabalhar sozinho", "right": "Liderar um grupo" },
+        "p5":  { "left": "Esconder meu eu real", "right": "Mostrar meu eu real" },
+        "p6":  { "left": "Agir agora",        "right": "Esperar pacientemente" },
+        "p7":  { "left": "Controlar tudo",    "right": "Abracar o caos" },
+        "p8":  { "left": "Nao confiar em ninguem", "right": "Dar segundas chances" },
+        "p9":  { "left": "Criar regras",      "right": "Quebrar regras" },
+        "p10": { "left": "Risco calculado",   "right": "Tudo ou nada" },
+        "p11": { "left": "Raiva me alimenta", "right": "Logica fria me guia" },
+        "p12": { "left": "Atacar primeiro",   "right": "Contra-atacar" },
+        "p13": { "left": "Me temam",          "right": "Me amem" },
+        "p14": { "left": "Mudar o mundo",     "right": "Proteger o que e meu" },
+        "p15": { "left": "Assombrado pelo passado", "right": "Obcecado com o futuro" },
+        "p16": { "left": "Queimar tudo",      "right": "Construir algo melhor" }
+    },
+    "archetypes": {
+        "betrayed": {
+            "name": "O Traido",
+            "narrative": "Voce foi forjado no fogo da confianca quebrada. Alguem que voce amava virou as costas, e a ferida nunca cicatrizou. Agora caminha pelo mundo com muros tao altos que ninguem pode te alcancar. Sua dor e sua armadura, e sua memoria e sua arma."
+        },
+        "mastermind": {
+            "name": "O Estrategista",
+            "narrative": "Enquanto outros agiam por impulso, voce aprendeu a pensar dez passos a frente. Cada movimento e calculado, cada palavra e deliberada. Nao precisa de forca bruta quando pode desmontar o mundo inteiro de alguem com uma unica ligacao."
+        },
+        "anarchist": {
+            "name": "O Anarquista",
+            "narrative": "As regras foram escritas pelos poderosos para manter os fracos sob controle. Voce viu atraves da ilusao cedo. Agora derruba cada sistema, cada instituicao, cada mentira confortavel. Alguns chamam de destruicao. Voce chama de libertacao."
+        },
+        "fallenHero": {
+            "name": "O Heroi Caido",
+            "narrative": "Voce comecou com intencoes nobres. Queria salvar o mundo, proteger o inocente, ser o bom. Mas o mundo continuou tirando ate nao sobrar nada de quem voce costumava ser. O heroi morreu. Algo mais sombrio tomou seu lugar."
+        },
+        "phantom": {
+            "name": "O Fantasma",
+            "narrative": "Voce existe nas sombras, invisivel e desconhecido. Quando percebem que voce esteve la, ja e tarde demais. Dominou a arte da invisibilidade, puxando cordas da escuridao. Ninguem teme o que nao pode ver — ate ver."
+        },
+        "conqueror": {
+            "name": "O Conquistador",
+            "narrative": "Poder nao e algo que voce quer — e algo que voce e. Nasceu para comandar, dominar, governar. Cada sala que entra se torna sua sala do trono. Fraqueza te enoja. O mundo nao precisa ser salvo. Precisa de uma mao mais forte."
+        }
+    },
+    "result": {
+        "breakdown": "Tracos de Vilao",
+        "retake": "Refazer Teste"
+    },
+    "share": {
+        "title": "Compartilhe Sua Origem",
+        "text": "Minha origem vilao e \"{archetype}\"! O que te tornou o vilao?",
+        "twitter": "Compartilhar no X",
+        "copyUrl": "Copiar Link",
+        "copied": "Copiado!"
+    },
+    "nav": {
+        "back": "DopaBrain Inicio"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "meta": {
+        "title": "Tes Asal-Usul Penjahat | DopaBrain",
+        "description": "Temukan kisah asal-usul penjahatmu! 16 pilihan biner cepat mengungkap arketipe penjahatmu."
+    },
+    "a11y": {
+        "skip": "Langsung ke konten"
+    },
+    "app": {
+        "title": "Tes Asal-Usul Penjahat",
+        "subtitle": "Apa yang membuatmu jadi penjahat?",
+        "description": "16 pilihan biner kilat. Jangan berpikir, ikuti insting. Ketuk kiri atau kanan untuk mengungkap kisah asal-usul penjahatmu.",
+        "start": "Ungkap Asal-Usulku"
+    },
+    "quiz": {
+        "combo": "{count}x KOMBO"
+    },
+    "pairs": {
+        "p1":  { "left": "Balas dendam",      "right": "Memaafkan" },
+        "p2":  { "left": "Kekuasaan",         "right": "Koneksi" },
+        "p3":  { "left": "Mengakali mereka",  "right": "Mengalahkan dengan kekuatan" },
+        "p4":  { "left": "Bekerja sendiri",   "right": "Memimpin kelompok" },
+        "p5":  { "left": "Sembunyikan diri asli", "right": "Tunjukkan diri asli" },
+        "p6":  { "left": "Bertindak sekarang","right": "Menunggu dengan sabar" },
+        "p7":  { "left": "Kendalikan segalanya","right": "Rangkul kekacauan" },
+        "p8":  { "left": "Tidak percaya siapapun", "right": "Beri kesempatan kedua" },
+        "p9":  { "left": "Buat aturan",       "right": "Langgar aturan" },
+        "p10": { "left": "Risiko terhitung",  "right": "Semua atau tidak sama sekali" },
+        "p11": { "left": "Kemarahan memicuku","right": "Logika dingin membimbingku" },
+        "p12": { "left": "Serang duluan",     "right": "Serangan balik" },
+        "p13": { "left": "Takuti aku",         "right": "Cintai aku" },
+        "p14": { "left": "Ubah dunia",         "right": "Lindungi milikku" },
+        "p15": { "left": "Dihantui masa lalu","right": "Terobsesi masa depan" },
+        "p16": { "left": "Bakar semuanya",    "right": "Bangun yang lebih baik" }
+    },
+    "archetypes": {
+        "betrayed": {
+            "name": "Yang Dikhianati",
+            "narrative": "Kamu ditempa dalam api kepercayaan yang hancur. Seseorang yang kamu cintai membelakangimu, dan luka itu tak pernah sembuh. Sekarang kamu berjalan di dunia dengan tembok begitu tinggi hingga tak ada yang bisa menjangkaumu. Rasa sakitmu adalah baju zirahmu, dan ingatanmu adalah senjatamu."
+        },
+        "mastermind": {
+            "name": "Sang Dalang",
+            "narrative": "Saat yang lain bertindak impulsif, kamu belajar berpikir sepuluh langkah ke depan. Setiap gerakan diperhitungkan, setiap kata disengaja. Tak butuh kekerasan saat bisa meruntuhkan seluruh dunia seseorang dengan satu panggilan telepon. Papan catur adalah kerajaanmu."
+        },
+        "anarchist": {
+            "name": "Sang Anarkis",
+            "narrative": "Aturan ditulis oleh yang berkuasa untuk mengendalikan yang lemah. Kamu melihat menembus ilusi sejak dini. Sekarang kamu meruntuhkan setiap sistem, setiap institusi, setiap kebohongan yang nyaman. Ada yang menyebutnya kehancuran. Kamu menyebutnya pembebasan."
+        },
+        "fallenHero": {
+            "name": "Pahlawan yang Jatuh",
+            "narrative": "Kamu memulai dengan niat mulia. Ingin menyelamatkan dunia, melindungi yang tak bersalah, menjadi yang baik. Tapi dunia terus mengambil sampai tak tersisa apa-apa dari dirimu yang dulu. Sang pahlawan mati. Sesuatu yang lebih gelap menggantikannya."
+        },
+        "phantom": {
+            "name": "Sang Hantu",
+            "narrative": "Kamu ada di balik bayangan, tak terlihat dan tak dikenal. Saat mereka sadar kamu ada di sana, sudah terlambat. Kamu menguasai seni tak terlihat, menarik benang dari kegelapan. Tak ada yang takut pada yang tak bisa dilihat — sampai mereka melihatnya."
+        },
+        "conqueror": {
+            "name": "Sang Penakluk",
+            "narrative": "Kekuasaan bukan sesuatu yang kamu inginkan — itu adalah dirimu. Kamu lahir untuk memerintah, mendominasi, menguasai. Setiap ruangan yang kamu masuki menjadi ruang tahtamu. Kelemahan membuatmu muak. Dunia tak perlu diselamatkan. Dunia butuh tangan yang lebih kuat."
+        }
+    },
+    "result": {
+        "breakdown": "Sifat Penjahat",
+        "retake": "Ulangi Tes"
+    },
+    "share": {
+        "title": "Bagikan Asal-Usulmu",
+        "text": "Asal-usul penjahatku adalah \"{archetype}\"! Apa yang membuatmu jadi penjahat?",
+        "twitter": "Bagikan di X",
+        "copyUrl": "Salin Link",
+        "copied": "Tersalin!"
+    },
+    "nav": {
+        "back": "DopaBrain Beranda"
+    }
+}

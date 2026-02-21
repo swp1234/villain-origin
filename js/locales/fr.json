@@ -1,0 +1,76 @@
+{
+    "meta": {
+        "title": "Test d'Origine du Vilain | DopaBrain",
+        "description": "Decouvrez votre histoire d'origine de vilain ! 16 choix binaires rapides revelent votre archetype de vilain."
+    },
+    "a11y": {
+        "skip": "Aller au contenu"
+    },
+    "app": {
+        "title": "Test d'Origine du Vilain",
+        "subtitle": "Qu'est-ce qui a fait de vous le vilain ?",
+        "description": "16 choix binaires rapides. Ne reflechissez pas, suivez votre instinct. Tapez a gauche ou a droite pour reveler votre histoire d'origine.",
+        "start": "Reveler Mon Origine"
+    },
+    "quiz": {
+        "combo": "{count}x COMBO"
+    },
+    "pairs": {
+        "p1":  { "left": "Vengeance",         "right": "Pardon" },
+        "p2":  { "left": "Pouvoir",           "right": "Connexion" },
+        "p3":  { "left": "Les surpasser",     "right": "Les dominer" },
+        "p4":  { "left": "Travailler seul",   "right": "Mener un groupe" },
+        "p5":  { "left": "Cacher mon vrai moi","right": "Montrer mon vrai moi" },
+        "p6":  { "left": "Agir maintenant",   "right": "Attendre patiemment" },
+        "p7":  { "left": "Tout controler",    "right": "Embrasser le chaos" },
+        "p8":  { "left": "Ne faire confiance a personne", "right": "Donner une seconde chance" },
+        "p9":  { "left": "Creer les regles",  "right": "Briser les regles" },
+        "p10": { "left": "Risque calcule",    "right": "Tout ou rien" },
+        "p11": { "left": "La colere me nourrit","right": "La logique froide me guide" },
+        "p12": { "left": "Frapper d'abord",   "right": "Contre-attaquer" },
+        "p13": { "left": "Qu'on me craigne",  "right": "Qu'on m'aime" },
+        "p14": { "left": "Changer le monde",  "right": "Proteger ce qui est a moi" },
+        "p15": { "left": "Hante par le passe","right": "Obsede par l'avenir" },
+        "p16": { "left": "Tout bruler",       "right": "Construire quelque chose de mieux" }
+    },
+    "archetypes": {
+        "betrayed": {
+            "name": "Le Trahi",
+            "narrative": "Vous avez ete forge dans les flammes de la confiance brisee. Quelqu'un que vous aimiez vous a tourne le dos, et la blessure n'a jamais gueri. Maintenant vous marchez dans le monde avec des murs si hauts que personne ne peut vous atteindre. Votre douleur est votre armure, et votre memoire est votre arme."
+        },
+        "mastermind": {
+            "name": "Le Cerveau",
+            "narrative": "Pendant que d'autres agissaient par impulsion, vous avez appris a penser dix coups d'avance. Chaque mouvement est calcule, chaque mot est delibere. Pas besoin de force brute quand vous pouvez demonter le monde entier de quelqu'un avec un seul appel telephonique."
+        },
+        "anarchist": {
+            "name": "L'Anarchiste",
+            "narrative": "Les regles ont ete ecrites par les puissants pour garder les faibles sous controle. Vous avez vu a travers l'illusion tres tot. Maintenant vous demolissez chaque systeme, chaque institution, chaque mensonge confortable. Certains appellent cela de la destruction. Vous appelez cela la liberation."
+        },
+        "fallenHero": {
+            "name": "Le Heros Dechu",
+            "narrative": "Vous avez commence avec de nobles intentions. Vous vouliez sauver le monde, proteger l'innocent, etre le bon. Mais le monde a continue a prendre jusqu'a ce qu'il ne reste rien de qui vous etiez. Le heros est mort. Quelque chose de plus sombre a pris sa place."
+        },
+        "phantom": {
+            "name": "Le Fantome",
+            "narrative": "Vous existez dans les ombres, invisible et inconnu. Le temps qu'ils realisent que vous etiez la, il est deja trop tard. Vous avez maitrise l'art de l'invisibilite, tirant les ficelles depuis l'obscurite. Personne ne craint ce qu'il ne peut pas voir — jusqu'a ce qu'il le voie."
+        },
+        "conqueror": {
+            "name": "Le Conquerant",
+            "narrative": "Le pouvoir n'est pas quelque chose que vous voulez — c'est quelque chose que vous etes. Vous etes ne pour commander, dominer, regner. Chaque piece ou vous entrez devient votre salle du trone. La faiblesse vous degoute. Le monde n'a pas besoin d'etre sauve. Il a besoin d'une main plus forte."
+        }
+    },
+    "result": {
+        "breakdown": "Traits de Vilain",
+        "retake": "Refaire le Test"
+    },
+    "share": {
+        "title": "Partagez Votre Origine",
+        "text": "Mon origine de vilain est \"{archetype}\" ! Qu'est-ce qui a fait de vous le vilain ?",
+        "twitter": "Partager sur X",
+        "copyUrl": "Copier le Lien",
+        "copied": "Copie !"
+    },
+    "nav": {
+        "back": "DopaBrain Accueil"
+    }
+}

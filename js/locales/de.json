@@ -1,0 +1,76 @@
+{
+    "meta": {
+        "title": "Bösewicht-Ursprung Test | DopaBrain",
+        "description": "Entdecke deine Bösewicht-Ursprungsgeschichte! 16 schnelle Entscheidungen enthüllen deinen Bösewicht-Archetyp."
+    },
+    "a11y": {
+        "skip": "Zum Inhalt springen"
+    },
+    "app": {
+        "title": "Bösewicht-Ursprung Test",
+        "subtitle": "Was hat dich zum Bösewicht gemacht?",
+        "description": "16 blitzschnelle Entscheidungen. Nicht nachdenken, nur Instinkt. Tippe links oder rechts, um deinen Bösewicht-Ursprung zu enthüllen.",
+        "start": "Meinen Ursprung enthüllen"
+    },
+    "quiz": {
+        "combo": "{count}x KOMBO"
+    },
+    "pairs": {
+        "p1":  { "left": "Rache",             "right": "Vergebung" },
+        "p2":  { "left": "Macht",             "right": "Verbindung" },
+        "p3":  { "left": "Überlisten",        "right": "Überwältigen" },
+        "p4":  { "left": "Allein arbeiten",   "right": "Ein Rudel führen" },
+        "p5":  { "left": "Wahres Ich verbergen", "right": "Wahres Ich zeigen" },
+        "p6":  { "left": "Jetzt handeln",     "right": "Geduldig warten" },
+        "p7":  { "left": "Alles kontrollieren","right": "Chaos umarmen" },
+        "p8":  { "left": "Niemandem vertrauen","right": "Zweite Chancen geben" },
+        "p9":  { "left": "Regeln machen",     "right": "Regeln brechen" },
+        "p10": { "left": "Kalkuliertes Risiko","right": "Alles oder nichts" },
+        "p11": { "left": "Wut treibt mich",   "right": "Kalte Logik leitet mich" },
+        "p12": { "left": "Zuerst zuschlagen", "right": "Kontern" },
+        "p13": { "left": "Fürchtet mich",     "right": "Liebt mich" },
+        "p14": { "left": "Die Welt verändern","right": "Meines beschützen" },
+        "p15": { "left": "Von Vergangenheit verfolgt", "right": "Besessen von Zukunft" },
+        "p16": { "left": "Alles niederbrennen","right": "Etwas Besseres bauen" }
+    },
+    "archetypes": {
+        "betrayed": {
+            "name": "Der Verratene",
+            "narrative": "Du wurdest im Feuer gebrochenen Vertrauens geschmiedet. Jemand, den du liebtest, hat dir den Rücken gekehrt, und die Wunde heilte nie. Nun wandelst du durch die Welt mit Mauern so hoch, dass niemand dich erreichen kann. Dein Schmerz ist deine Rüstung, deine Erinnerung deine Waffe."
+        },
+        "mastermind": {
+            "name": "Das Genie",
+            "narrative": "Während andere impulsiv handelten, lerntest du, zehn Schritte vorauszudenken. Jeder Zug ist berechnet, jedes Wort absichtlich. Du brauchst keine rohe Gewalt, wenn du jemandes ganze Welt mit einem einzigen Anruf zerlegen kannst. Das Schachbrett ist dein Königreich."
+        },
+        "anarchist": {
+            "name": "Der Anarchist",
+            "narrative": "Regeln wurden von den Mächtigen geschrieben, um die Machtlosen in Schach zu halten. Du hast die Illusion früh durchschaut. Nun reißt du jedes System, jede Institution, jede bequeme Lüge nieder. Manche nennen es Zerstörung. Du nennst es Befreiung."
+        },
+        "fallenHero": {
+            "name": "Der Gefallene Held",
+            "narrative": "Du hast mit noblen Absichten begonnen. Du wolltest die Welt retten, Unschuldige beschützen, der Gute sein. Aber die Welt nahm und nahm, bis nichts mehr übrig war von dem, der du einst warst. Der Held starb. Etwas Dunkleres nahm seinen Platz ein."
+        },
+        "phantom": {
+            "name": "Das Phantom",
+            "narrative": "Du existierst in den Schatten, unsichtbar und unbekannt. Bis sie merken, dass du da warst, ist es bereits zu spät. Du beherrschst die Kunst der Unsichtbarkeit und ziehst Fäden aus der Dunkelheit. Niemand fürchtet, was man nicht sehen kann — bis sie es tun."
+        },
+        "conqueror": {
+            "name": "Der Eroberer",
+            "narrative": "Macht ist nichts, was du willst — es ist, was du bist. Du wurdest geboren, um zu befehlen, zu dominieren, zu herrschen. Jeder Raum, den du betrittst, wird zu deinem Thronsaal. Schwäche ekelt dich an. Die Welt braucht keine Rettung. Sie braucht eine stärkere Hand."
+        }
+    },
+    "result": {
+        "breakdown": "Bösewicht-Merkmale",
+        "retake": "Nochmal machen"
+    },
+    "share": {
+        "title": "Teile deinen Ursprung",
+        "text": "Mein Bösewicht-Ursprung ist \"{archetype}\"! Was hat dich zum Bösewicht gemacht?",
+        "twitter": "Auf X teilen",
+        "copyUrl": "Link kopieren",
+        "copied": "Kopiert!"
+    },
+    "nav": {
+        "back": "DopaBrain Startseite"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "meta": {
+        "title": "Kötü Adam Köken Testi | DopaBrain",
+        "description": "Kötü adam köken hikayenizi kesffedin! 16 hizli ikili secimle kötü adam arketipinizi ortaya cikarin."
+    },
+    "a11y": {
+        "skip": "Icerige atla"
+    },
+    "app": {
+        "title": "Kötü Adam Köken Testi",
+        "subtitle": "Seni kötü adam yapan ne?",
+        "description": "16 hizli ikili secim. Düsünme, icgüdüne güven. Kötü adam köken hikayeni ortaya cikarmak icin sola veya saga dokun.",
+        "start": "Kökenimi Ortaya Cikar"
+    },
+    "quiz": {
+        "combo": "{count}x KOMBO"
+    },
+    "pairs": {
+        "p1":  { "left": "Intikam",           "right": "Bagislama" },
+        "p2":  { "left": "Güc",               "right": "Bag" },
+        "p3":  { "left": "Zekamla yenmek",    "right": "Güccle bastirmak" },
+        "p4":  { "left": "Yalniz calismak",   "right": "Sürüyü yönetmek" },
+        "p5":  { "left": "Gercek benligimi gizle", "right": "Gercek benligimi göster" },
+        "p6":  { "left": "Simdi harekete gec","right": "Sabırla bekle" },
+        "p7":  { "left": "Her seyi kontrol et","right": "Kaosu kucakla" },
+        "p8":  { "left": "Kimseye güvenme",   "right": "Ikinci sans ver" },
+        "p9":  { "left": "Kurallar koy",      "right": "Kuralları kir" },
+        "p10": { "left": "Hesaplanmis risk",  "right": "Ya hep ya hic" },
+        "p11": { "left": "Öfke beni besler",  "right": "Soguk mantik yol gösterir" },
+        "p12": { "left": "Ilk saldiri",       "right": "Karsi saldiri" },
+        "p13": { "left": "Benden korksunlar", "right": "Beni sevsinler" },
+        "p14": { "left": "Dünyayi degistir",  "right": "Benimkileri koru" },
+        "p15": { "left": "Gecmis takip ediyor","right": "Gelecege takilmis" },
+        "p16": { "left": "Hepsini yak",       "right": "Daha iyisini insaa et" }
+    },
+    "archetypes": {
+        "betrayed": {
+            "name": "Ihanete Ugrayan",
+            "narrative": "Kirilmis güvenin atesinde dövüldün. Sevdigin biri sana sirtini döndü ve yara hic iyilesmedi. Simdi dünyada kimsenin ulasemayacegi kadar yüksek duvarlarin ardinda yürüyorsun. Acin zirhin, hafızan silahın."
+        },
+        "mastermind": {
+            "name": "Beyin",
+            "narrative": "Baskalarí dürtüsel davranirken, sen on adim ileriye düsünmeyi ögrendin. Her hamle hesaplanmis, her söz kasitli. Tek bir telefon aramasıyla birinin tüm dünyasını yikabilirken kaba güce ne gerek var. Satranc tahtasi senin krallığın."
+        },
+        "anarchist": {
+            "name": "Anarsist",
+            "narrative": "Kurallar güclüler tarafindan gücsüzleri kontrol altinda tutmak icin yazildi. Sen ilüzyonu erken gördün. Simdi her sistemi, her kurumu, her rahat yalani yikiyorsun. Bazilari buna yikim diyor. Sen buna özgürlük diyorsun."
+        },
+        "fallenHero": {
+            "name": "Düsmüs Kahraman",
+            "narrative": "Asil niyetlerle basladın. Dünyayi kurtarmak, masumu korumak, iyi olan olmak istedin. Ama dünya almaya devam etti, ta ki eskiden oldugun kisiden hicbir sey kalmayana kadar. Kahraman öldü. Daha karanlik bir sey onun yerini aldi."
+        },
+        "phantom": {
+            "name": "Hayalet",
+            "narrative": "Gölgelerde varsin, görünmez ve bilinmez. Senin orada olduğunu anladıklarında, artık çok geç. Karanliktan ipleri cekme görünmezlik sanatında ustalaştın. Kimse göremediginden korkmaz — görene kadar."
+        },
+        "conqueror": {
+            "name": "Fatih",
+            "narrative": "Güc istedgin bir sey degil — oldugun sey. Komuta etmek, hakimiyet kurmak, yönetmek icin doğdun. Girdigin her oda taht odana dönüsür. Zaafliyet seni tiksindirir. Dünyanin kurtarilmaya ihtiyaci yok. Daha güclü bir ele ihtiyaci var."
+        }
+    },
+    "result": {
+        "breakdown": "Kötü Adam Özellikleri",
+        "retake": "Yeniden Yap"
+    },
+    "share": {
+        "title": "Kökenini Paylas",
+        "text": "Kötü adam kökanim \"{archetype}\"! Seni kötü adam yapan ne?",
+        "twitter": "X'te Paylas",
+        "copyUrl": "Linki Kopyala",
+        "copied": "Kopyalandi!"
+    },
+    "nav": {
+        "back": "DopaBrain Ana Sayfa"
+    }
+}

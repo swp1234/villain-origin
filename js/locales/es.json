@@ -1,0 +1,76 @@
+{
+    "meta": {
+        "title": "Test de Origen Villano | DopaBrain",
+        "description": "Descubre tu historia de origen villano. 16 elecciones binarias revelan tu arquetipo de villano."
+    },
+    "a11y": {
+        "skip": "Saltar al contenido"
+    },
+    "app": {
+        "title": "Test de Origen Villano",
+        "subtitle": "Que te convirtio en villano?",
+        "description": "16 elecciones binarias rapidas. Sin pensar, solo instinto. Toca izquierda o derecha para revelar tu historia de origen villano.",
+        "start": "Revelar Mi Origen"
+    },
+    "quiz": {
+        "combo": "{count}x COMBO"
+    },
+    "pairs": {
+        "p1":  { "left": "Venganza",          "right": "Perdon" },
+        "p2":  { "left": "Poder",             "right": "Conexion" },
+        "p3":  { "left": "Ser mas astuto",    "right": "Dominar por fuerza" },
+        "p4":  { "left": "Trabajar solo",     "right": "Liderar un grupo" },
+        "p5":  { "left": "Ocultar mi yo real","right": "Mostrar mi yo real" },
+        "p6":  { "left": "Actuar ahora",      "right": "Esperar pacientemente" },
+        "p7":  { "left": "Controlar todo",    "right": "Abrazar el caos" },
+        "p8":  { "left": "No confiar en nadie","right": "Dar segundas oportunidades" },
+        "p9":  { "left": "Crear reglas",      "right": "Romper reglas" },
+        "p10": { "left": "Riesgo calculado",  "right": "Todo o nada" },
+        "p11": { "left": "La ira me impulsa", "right": "La logica fria me guia" },
+        "p12": { "left": "Atacar primero",    "right": "Contraatacar" },
+        "p13": { "left": "Que me teman",      "right": "Que me amen" },
+        "p14": { "left": "Cambiar el mundo",  "right": "Proteger lo mio" },
+        "p15": { "left": "Atormentado por el pasado", "right": "Obsesionado con el futuro" },
+        "p16": { "left": "Quemarlo todo",     "right": "Construir algo mejor" }
+    },
+    "archetypes": {
+        "betrayed": {
+            "name": "El Traicionado",
+            "narrative": "Fuiste forjado en el fuego de la confianza rota. Alguien a quien amabas te dio la espalda, y la herida nunca sano. Ahora caminas por el mundo con muros tan altos que nadie puede alcanzarte. Tu dolor es tu armadura, y tu memoria es tu arma."
+        },
+        "mastermind": {
+            "name": "El Cerebro",
+            "narrative": "Mientras otros actuaban por impulso, tu aprendiste a pensar diez pasos adelante. Cada movimiento esta calculado, cada palabra es deliberada. No necesitas fuerza bruta cuando puedes desmantelar el mundo entero de alguien con una sola llamada."
+        },
+        "anarchist": {
+            "name": "El Anarquista",
+            "narrative": "Las reglas fueron escritas por los poderosos para mantener a los debiles bajo control. Tu viste a traves de la ilusion temprano. Ahora derribas cada sistema, cada institucion, cada mentira comoda. Algunos lo llaman destruccion. Tu lo llamas liberacion."
+        },
+        "fallenHero": {
+            "name": "El Heroe Caido",
+            "narrative": "Empezaste con intenciones nobles. Querias salvar el mundo, proteger al inocente, ser el bueno. Pero el mundo siguio quitando hasta que no quedo nada de quien solias ser. El heroe murio. Algo mas oscuro tomo su lugar."
+        },
+        "phantom": {
+            "name": "El Fantasma",
+            "narrative": "Existes en las sombras, sin ser visto ni conocido. Para cuando se dan cuenta de que estuviste alli, ya es demasiado tarde. Has dominado el arte de la invisibilidad, moviendo hilos desde la oscuridad. Nadie teme lo que no puede ver — hasta que lo hace."
+        },
+        "conqueror": {
+            "name": "El Conquistador",
+            "narrative": "El poder no es algo que quieres — es algo que eres. Naciste para comandar, dominar, gobernar. Cada habitacion en la que entras se convierte en tu salon del trono. La debilidad te repugna. El mundo no necesita ser salvado. Necesita una mano mas fuerte."
+        }
+    },
+    "result": {
+        "breakdown": "Rasgos de Villano",
+        "retake": "Repetir Test"
+    },
+    "share": {
+        "title": "Comparte Tu Origen",
+        "text": "Mi origen villano es \"{archetype}\"! Que te convirtio en villano?",
+        "twitter": "Compartir en X",
+        "copyUrl": "Copiar Enlace",
+        "copied": "Copiado!"
+    },
+    "nav": {
+        "back": "DopaBrain Inicio"
+    }
+}
