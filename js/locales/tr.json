@@ -16,22 +16,70 @@
         "combo": "{count}x KOMBO"
     },
     "pairs": {
-        "p1":  { "left": "Intikam",           "right": "Bagislama" },
-        "p2":  { "left": "Güc",               "right": "Bag" },
-        "p3":  { "left": "Zekamla yenmek",    "right": "Güccle bastirmak" },
-        "p4":  { "left": "Yalniz calismak",   "right": "Sürüyü yönetmek" },
-        "p5":  { "left": "Gercek benligimi gizle", "right": "Gercek benligimi göster" },
-        "p6":  { "left": "Simdi harekete gec","right": "Sabırla bekle" },
-        "p7":  { "left": "Her seyi kontrol et","right": "Kaosu kucakla" },
-        "p8":  { "left": "Kimseye güvenme",   "right": "Ikinci sans ver" },
-        "p9":  { "left": "Kurallar koy",      "right": "Kuralları kir" },
-        "p10": { "left": "Hesaplanmis risk",  "right": "Ya hep ya hic" },
-        "p11": { "left": "Öfke beni besler",  "right": "Soguk mantik yol gösterir" },
-        "p12": { "left": "Ilk saldiri",       "right": "Karsi saldiri" },
-        "p13": { "left": "Benden korksunlar", "right": "Beni sevsinler" },
-        "p14": { "left": "Dünyayi degistir",  "right": "Benimkileri koru" },
-        "p15": { "left": "Gecmis takip ediyor","right": "Gelecege takilmis" },
-        "p16": { "left": "Hepsini yak",       "right": "Daha iyisini insaa et" }
+        "p1": {
+            "left": "Intikam",
+            "right": "Bagislama"
+        },
+        "p2": {
+            "left": "Güc",
+            "right": "Bag"
+        },
+        "p3": {
+            "left": "Zekamla yenmek",
+            "right": "Güccle bastirmak"
+        },
+        "p4": {
+            "left": "Yalniz calismak",
+            "right": "Sürüyü yönetmek"
+        },
+        "p5": {
+            "left": "Gercek benligimi gizle",
+            "right": "Gercek benligimi göster"
+        },
+        "p6": {
+            "left": "Simdi harekete gec",
+            "right": "Sabırla bekle"
+        },
+        "p7": {
+            "left": "Her seyi kontrol et",
+            "right": "Kaosu kucakla"
+        },
+        "p8": {
+            "left": "Kimseye güvenme",
+            "right": "Ikinci sans ver"
+        },
+        "p9": {
+            "left": "Kurallar koy",
+            "right": "Kuralları kir"
+        },
+        "p10": {
+            "left": "Hesaplanmis risk",
+            "right": "Ya hep ya hic"
+        },
+        "p11": {
+            "left": "Öfke beni besler",
+            "right": "Soguk mantik yol gösterir"
+        },
+        "p12": {
+            "left": "Ilk saldiri",
+            "right": "Karsi saldiri"
+        },
+        "p13": {
+            "left": "Benden korksunlar",
+            "right": "Beni sevsinler"
+        },
+        "p14": {
+            "left": "Dünyayi degistir",
+            "right": "Benimkileri koru"
+        },
+        "p15": {
+            "left": "Gecmis takip ediyor",
+            "right": "Gelecege takilmis"
+        },
+        "p16": {
+            "left": "Hepsini yak",
+            "right": "Daha iyisini insaa et"
+        }
     },
     "archetypes": {
         "betrayed": {
@@ -80,5 +128,19 @@
     },
     "nav": {
         "back": "DopaBrain Ana Sayfa"
+    },
+    "engage": {
+        "result1": "The Mastermind -- Cold, Calculating Genius",
+        "result2": "The Anarchist -- Chaos Is the Only Freedom",
+        "result3": "The Phantom -- Silent & Unseen Manipulator",
+        "result4": "The Fallen Hero -- Betrayed Into Darkness",
+        "socialProof": "1,550+ villain origins discovered"
+    },
+    "about": {
+        "toggle": "About the Villain Origin Test",
+        "heading1": "How the Villain Origin Test Works",
+        "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
+        "heading2": "Understanding Villain Archetypes",
+        "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
     }
 }

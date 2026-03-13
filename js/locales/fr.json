@@ -16,22 +16,70 @@
         "combo": "{count}x COMBO"
     },
     "pairs": {
-        "p1":  { "left": "Vengeance",         "right": "Pardon" },
-        "p2":  { "left": "Pouvoir",           "right": "Connexion" },
-        "p3":  { "left": "Les surpasser",     "right": "Les dominer" },
-        "p4":  { "left": "Travailler seul",   "right": "Mener un groupe" },
-        "p5":  { "left": "Cacher mon vrai moi","right": "Montrer mon vrai moi" },
-        "p6":  { "left": "Agir maintenant",   "right": "Attendre patiemment" },
-        "p7":  { "left": "Tout controler",    "right": "Embrasser le chaos" },
-        "p8":  { "left": "Ne faire confiance a personne", "right": "Donner une seconde chance" },
-        "p9":  { "left": "Creer les regles",  "right": "Briser les regles" },
-        "p10": { "left": "Risque calcule",    "right": "Tout ou rien" },
-        "p11": { "left": "La colere me nourrit","right": "La logique froide me guide" },
-        "p12": { "left": "Frapper d'abord",   "right": "Contre-attaquer" },
-        "p13": { "left": "Qu'on me craigne",  "right": "Qu'on m'aime" },
-        "p14": { "left": "Changer le monde",  "right": "Proteger ce qui est a moi" },
-        "p15": { "left": "Hante par le passe","right": "Obsede par l'avenir" },
-        "p16": { "left": "Tout bruler",       "right": "Construire quelque chose de mieux" }
+        "p1": {
+            "left": "Vengeance",
+            "right": "Pardon"
+        },
+        "p2": {
+            "left": "Pouvoir",
+            "right": "Connexion"
+        },
+        "p3": {
+            "left": "Les surpasser",
+            "right": "Les dominer"
+        },
+        "p4": {
+            "left": "Travailler seul",
+            "right": "Mener un groupe"
+        },
+        "p5": {
+            "left": "Cacher mon vrai moi",
+            "right": "Montrer mon vrai moi"
+        },
+        "p6": {
+            "left": "Agir maintenant",
+            "right": "Attendre patiemment"
+        },
+        "p7": {
+            "left": "Tout controler",
+            "right": "Embrasser le chaos"
+        },
+        "p8": {
+            "left": "Ne faire confiance a personne",
+            "right": "Donner une seconde chance"
+        },
+        "p9": {
+            "left": "Creer les regles",
+            "right": "Briser les regles"
+        },
+        "p10": {
+            "left": "Risque calcule",
+            "right": "Tout ou rien"
+        },
+        "p11": {
+            "left": "La colere me nourrit",
+            "right": "La logique froide me guide"
+        },
+        "p12": {
+            "left": "Frapper d'abord",
+            "right": "Contre-attaquer"
+        },
+        "p13": {
+            "left": "Qu'on me craigne",
+            "right": "Qu'on m'aime"
+        },
+        "p14": {
+            "left": "Changer le monde",
+            "right": "Proteger ce qui est a moi"
+        },
+        "p15": {
+            "left": "Hante par le passe",
+            "right": "Obsede par l'avenir"
+        },
+        "p16": {
+            "left": "Tout bruler",
+            "right": "Construire quelque chose de mieux"
+        }
     },
     "archetypes": {
         "betrayed": {
@@ -80,5 +128,19 @@
     },
     "nav": {
         "back": "DopaBrain Accueil"
+    },
+    "engage": {
+        "result1": "The Mastermind -- Cold, Calculating Genius",
+        "result2": "The Anarchist -- Chaos Is the Only Freedom",
+        "result3": "The Phantom -- Silent & Unseen Manipulator",
+        "result4": "The Fallen Hero -- Betrayed Into Darkness",
+        "socialProof": "1,550+ villain origins discovered"
+    },
+    "about": {
+        "toggle": "About the Villain Origin Test",
+        "heading1": "How the Villain Origin Test Works",
+        "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
+        "heading2": "Understanding Villain Archetypes",
+        "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
     }
 }

@@ -16,22 +16,70 @@
         "combo": "{count}x कॉम्बो"
     },
     "pairs": {
-        "p1":  { "left": "बदला",             "right": "क्षमा" },
-        "p2":  { "left": "शक्ति",            "right": "जुड़ाव" },
-        "p3":  { "left": "बुद्धि से जीतो",    "right": "ताकत से जीतो" },
-        "p4":  { "left": "अकेले काम करो",    "right": "समूह का नेतृत्व करो" },
-        "p5":  { "left": "असली रूप छुपाओ",   "right": "असली रूप दिखाओ" },
-        "p6":  { "left": "अभी कार्य करो",    "right": "धैर्य से प्रतीक्षा करो" },
-        "p7":  { "left": "सब कुछ नियंत्रित करो", "right": "अराजकता अपनाओ" },
-        "p8":  { "left": "किसी पर भरोसा मत करो", "right": "दूसरा मौका दो" },
-        "p9":  { "left": "नियम बनाओ",        "right": "नियम तोड़ो" },
-        "p10": { "left": "गणना किया जोखिम",   "right": "सब या कुछ नहीं" },
-        "p11": { "left": "गुस्सा मेरा ईंधन",   "right": "ठंडा तर्क मेरा मार्गदर्शक" },
-        "p12": { "left": "पहले हमला करो",     "right": "जवाबी हमला करो" },
-        "p13": { "left": "मुझसे डरो",         "right": "मुझसे प्यार करो" },
-        "p14": { "left": "दुनिया बदलो",       "right": "अपना बचाओ" },
-        "p15": { "left": "अतीत से परेशान",    "right": "भविष्य का जुनून" },
-        "p16": { "left": "सब जला दो",         "right": "कुछ बेहतर बनाओ" }
+        "p1": {
+            "left": "बदला",
+            "right": "क्षमा"
+        },
+        "p2": {
+            "left": "शक्ति",
+            "right": "जुड़ाव"
+        },
+        "p3": {
+            "left": "बुद्धि से जीतो",
+            "right": "ताकत से जीतो"
+        },
+        "p4": {
+            "left": "अकेले काम करो",
+            "right": "समूह का नेतृत्व करो"
+        },
+        "p5": {
+            "left": "असली रूप छुपाओ",
+            "right": "असली रूप दिखाओ"
+        },
+        "p6": {
+            "left": "अभी कार्य करो",
+            "right": "धैर्य से प्रतीक्षा करो"
+        },
+        "p7": {
+            "left": "सब कुछ नियंत्रित करो",
+            "right": "अराजकता अपनाओ"
+        },
+        "p8": {
+            "left": "किसी पर भरोसा मत करो",
+            "right": "दूसरा मौका दो"
+        },
+        "p9": {
+            "left": "नियम बनाओ",
+            "right": "नियम तोड़ो"
+        },
+        "p10": {
+            "left": "गणना किया जोखिम",
+            "right": "सब या कुछ नहीं"
+        },
+        "p11": {
+            "left": "गुस्सा मेरा ईंधन",
+            "right": "ठंडा तर्क मेरा मार्गदर्शक"
+        },
+        "p12": {
+            "left": "पहले हमला करो",
+            "right": "जवाबी हमला करो"
+        },
+        "p13": {
+            "left": "मुझसे डरो",
+            "right": "मुझसे प्यार करो"
+        },
+        "p14": {
+            "left": "दुनिया बदलो",
+            "right": "अपना बचाओ"
+        },
+        "p15": {
+            "left": "अतीत से परेशान",
+            "right": "भविष्य का जुनून"
+        },
+        "p16": {
+            "left": "सब जला दो",
+            "right": "कुछ बेहतर बनाओ"
+        }
     },
     "archetypes": {
         "betrayed": {
@@ -80,5 +128,19 @@
     },
     "nav": {
         "back": "DopaBrain होम"
+    },
+    "engage": {
+        "result1": "The Mastermind -- Cold, Calculating Genius",
+        "result2": "The Anarchist -- Chaos Is the Only Freedom",
+        "result3": "The Phantom -- Silent & Unseen Manipulator",
+        "result4": "The Fallen Hero -- Betrayed Into Darkness",
+        "socialProof": "1,550+ villain origins discovered"
+    },
+    "about": {
+        "toggle": "About the Villain Origin Test",
+        "heading1": "How the Villain Origin Test Works",
+        "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
+        "heading2": "Understanding Villain Archetypes",
+        "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
     }
 }

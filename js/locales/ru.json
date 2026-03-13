@@ -16,22 +16,70 @@
         "combo": "{count}x КОМБО"
     },
     "pairs": {
-        "p1":  { "left": "Месть",             "right": "Прощение" },
-        "p2":  { "left": "Власть",            "right": "Связь" },
-        "p3":  { "left": "Перехитрить",       "right": "Одолеть силой" },
-        "p4":  { "left": "Работать в одиночку","right": "Вести стаю" },
-        "p5":  { "left": "Скрыть истинное я", "right": "Показать истинное я" },
-        "p6":  { "left": "Действовать сейчас","right": "Терпеливо ждать" },
-        "p7":  { "left": "Контролировать всё","right": "Принять хаос" },
-        "p8":  { "left": "Не доверять никому","right": "Дать второй шанс" },
-        "p9":  { "left": "Создавать правила", "right": "Нарушать правила" },
-        "p10": { "left": "Рассчитанный риск", "right": "Всё или ничего" },
-        "p11": { "left": "Гнев — моё топливо","right": "Холодная логика ведёт меня" },
-        "p12": { "left": "Ударить первым",    "right": "Контратаковать" },
-        "p13": { "left": "Пусть боятся",      "right": "Пусть любят" },
-        "p14": { "left": "Изменить мир",      "right": "Защитить своё" },
-        "p15": { "left": "Преследует прошлое","right": "Одержим будущим" },
-        "p16": { "left": "Сжечь всё",         "right": "Построить лучшее" }
+        "p1": {
+            "left": "Месть",
+            "right": "Прощение"
+        },
+        "p2": {
+            "left": "Власть",
+            "right": "Связь"
+        },
+        "p3": {
+            "left": "Перехитрить",
+            "right": "Одолеть силой"
+        },
+        "p4": {
+            "left": "Работать в одиночку",
+            "right": "Вести стаю"
+        },
+        "p5": {
+            "left": "Скрыть истинное я",
+            "right": "Показать истинное я"
+        },
+        "p6": {
+            "left": "Действовать сейчас",
+            "right": "Терпеливо ждать"
+        },
+        "p7": {
+            "left": "Контролировать всё",
+            "right": "Принять хаос"
+        },
+        "p8": {
+            "left": "Не доверять никому",
+            "right": "Дать второй шанс"
+        },
+        "p9": {
+            "left": "Создавать правила",
+            "right": "Нарушать правила"
+        },
+        "p10": {
+            "left": "Рассчитанный риск",
+            "right": "Всё или ничего"
+        },
+        "p11": {
+            "left": "Гнев — моё топливо",
+            "right": "Холодная логика ведёт меня"
+        },
+        "p12": {
+            "left": "Ударить первым",
+            "right": "Контратаковать"
+        },
+        "p13": {
+            "left": "Пусть боятся",
+            "right": "Пусть любят"
+        },
+        "p14": {
+            "left": "Изменить мир",
+            "right": "Защитить своё"
+        },
+        "p15": {
+            "left": "Преследует прошлое",
+            "right": "Одержим будущим"
+        },
+        "p16": {
+            "left": "Сжечь всё",
+            "right": "Построить лучшее"
+        }
     },
     "archetypes": {
         "betrayed": {
@@ -80,5 +128,19 @@
     },
     "nav": {
         "back": "DopaBrain Главная"
+    },
+    "engage": {
+        "result1": "The Mastermind -- Cold, Calculating Genius",
+        "result2": "The Anarchist -- Chaos Is the Only Freedom",
+        "result3": "The Phantom -- Silent & Unseen Manipulator",
+        "result4": "The Fallen Hero -- Betrayed Into Darkness",
+        "socialProof": "1,550+ villain origins discovered"
+    },
+    "about": {
+        "toggle": "About the Villain Origin Test",
+        "heading1": "How the Villain Origin Test Works",
+        "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
+        "heading2": "Understanding Villain Archetypes",
+        "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
     }
 }

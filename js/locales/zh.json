@@ -16,22 +16,70 @@
         "combo": "{count}x 连击"
     },
     "pairs": {
-        "p1":  { "left": "复仇",           "right": "宽恕" },
-        "p2":  { "left": "权力",           "right": "羁绊" },
-        "p3":  { "left": "智取",           "right": "力压" },
-        "p4":  { "left": "独自行动",       "right": "率领群体" },
-        "p5":  { "left": "隐藏真我",       "right": "展现真我" },
-        "p6":  { "left": "立即行动",       "right": "耐心等待" },
-        "p7":  { "left": "控制一切",       "right": "拥抱混乱" },
-        "p8":  { "left": "不相信任何人",   "right": "给第二次机会" },
-        "p9":  { "left": "制定规则",       "right": "打破规则" },
-        "p10": { "left": "精打细算",       "right": "孤注一掷" },
-        "p11": { "left": "愤怒驱动我",     "right": "冷酷逻辑" },
-        "p12": { "left": "先发制人",       "right": "反击" },
-        "p13": { "left": "让人畏惧",       "right": "让人爱戴" },
-        "p14": { "left": "改变世界",       "right": "保护我的一切" },
-        "p15": { "left": "被过去纠缠",     "right": "痴迷未来" },
-        "p16": { "left": "烧毁一切",       "right": "建造更好的" }
+        "p1": {
+            "left": "复仇",
+            "right": "宽恕"
+        },
+        "p2": {
+            "left": "权力",
+            "right": "羁绊"
+        },
+        "p3": {
+            "left": "智取",
+            "right": "力压"
+        },
+        "p4": {
+            "left": "独自行动",
+            "right": "率领群体"
+        },
+        "p5": {
+            "left": "隐藏真我",
+            "right": "展现真我"
+        },
+        "p6": {
+            "left": "立即行动",
+            "right": "耐心等待"
+        },
+        "p7": {
+            "left": "控制一切",
+            "right": "拥抱混乱"
+        },
+        "p8": {
+            "left": "不相信任何人",
+            "right": "给第二次机会"
+        },
+        "p9": {
+            "left": "制定规则",
+            "right": "打破规则"
+        },
+        "p10": {
+            "left": "精打细算",
+            "right": "孤注一掷"
+        },
+        "p11": {
+            "left": "愤怒驱动我",
+            "right": "冷酷逻辑"
+        },
+        "p12": {
+            "left": "先发制人",
+            "right": "反击"
+        },
+        "p13": {
+            "left": "让人畏惧",
+            "right": "让人爱戴"
+        },
+        "p14": {
+            "left": "改变世界",
+            "right": "保护我的一切"
+        },
+        "p15": {
+            "left": "被过去纠缠",
+            "right": "痴迷未来"
+        },
+        "p16": {
+            "left": "烧毁一切",
+            "right": "建造更好的"
+        }
     },
     "archetypes": {
         "betrayed": {
@@ -80,5 +128,19 @@
     },
     "nav": {
         "back": "DopaBrain 首页"
+    },
+    "engage": {
+        "result1": "The Mastermind -- Cold, Calculating Genius",
+        "result2": "The Anarchist -- Chaos Is the Only Freedom",
+        "result3": "The Phantom -- Silent & Unseen Manipulator",
+        "result4": "The Fallen Hero -- Betrayed Into Darkness",
+        "socialProof": "1,550+ villain origins discovered"
+    },
+    "about": {
+        "toggle": "About the Villain Origin Test",
+        "heading1": "How the Villain Origin Test Works",
+        "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
+        "heading2": "Understanding Villain Archetypes",
+        "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
     }
 }

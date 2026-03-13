@@ -16,22 +16,70 @@
         "combo": "{count}x KOMBO"
     },
     "pairs": {
-        "p1":  { "left": "Balas dendam",      "right": "Memaafkan" },
-        "p2":  { "left": "Kekuasaan",         "right": "Koneksi" },
-        "p3":  { "left": "Mengakali mereka",  "right": "Mengalahkan dengan kekuatan" },
-        "p4":  { "left": "Bekerja sendiri",   "right": "Memimpin kelompok" },
-        "p5":  { "left": "Sembunyikan diri asli", "right": "Tunjukkan diri asli" },
-        "p6":  { "left": "Bertindak sekarang","right": "Menunggu dengan sabar" },
-        "p7":  { "left": "Kendalikan segalanya","right": "Rangkul kekacauan" },
-        "p8":  { "left": "Tidak percaya siapapun", "right": "Beri kesempatan kedua" },
-        "p9":  { "left": "Buat aturan",       "right": "Langgar aturan" },
-        "p10": { "left": "Risiko terhitung",  "right": "Semua atau tidak sama sekali" },
-        "p11": { "left": "Kemarahan memicuku","right": "Logika dingin membimbingku" },
-        "p12": { "left": "Serang duluan",     "right": "Serangan balik" },
-        "p13": { "left": "Takuti aku",         "right": "Cintai aku" },
-        "p14": { "left": "Ubah dunia",         "right": "Lindungi milikku" },
-        "p15": { "left": "Dihantui masa lalu","right": "Terobsesi masa depan" },
-        "p16": { "left": "Bakar semuanya",    "right": "Bangun yang lebih baik" }
+        "p1": {
+            "left": "Balas dendam",
+            "right": "Memaafkan"
+        },
+        "p2": {
+            "left": "Kekuasaan",
+            "right": "Koneksi"
+        },
+        "p3": {
+            "left": "Mengakali mereka",
+            "right": "Mengalahkan dengan kekuatan"
+        },
+        "p4": {
+            "left": "Bekerja sendiri",
+            "right": "Memimpin kelompok"
+        },
+        "p5": {
+            "left": "Sembunyikan diri asli",
+            "right": "Tunjukkan diri asli"
+        },
+        "p6": {
+            "left": "Bertindak sekarang",
+            "right": "Menunggu dengan sabar"
+        },
+        "p7": {
+            "left": "Kendalikan segalanya",
+            "right": "Rangkul kekacauan"
+        },
+        "p8": {
+            "left": "Tidak percaya siapapun",
+            "right": "Beri kesempatan kedua"
+        },
+        "p9": {
+            "left": "Buat aturan",
+            "right": "Langgar aturan"
+        },
+        "p10": {
+            "left": "Risiko terhitung",
+            "right": "Semua atau tidak sama sekali"
+        },
+        "p11": {
+            "left": "Kemarahan memicuku",
+            "right": "Logika dingin membimbingku"
+        },
+        "p12": {
+            "left": "Serang duluan",
+            "right": "Serangan balik"
+        },
+        "p13": {
+            "left": "Takuti aku",
+            "right": "Cintai aku"
+        },
+        "p14": {
+            "left": "Ubah dunia",
+            "right": "Lindungi milikku"
+        },
+        "p15": {
+            "left": "Dihantui masa lalu",
+            "right": "Terobsesi masa depan"
+        },
+        "p16": {
+            "left": "Bakar semuanya",
+            "right": "Bangun yang lebih baik"
+        }
     },
     "archetypes": {
         "betrayed": {
@@ -80,5 +128,19 @@
     },
     "nav": {
         "back": "DopaBrain Beranda"
+    },
+    "engage": {
+        "result1": "The Mastermind -- Cold, Calculating Genius",
+        "result2": "The Anarchist -- Chaos Is the Only Freedom",
+        "result3": "The Phantom -- Silent & Unseen Manipulator",
+        "result4": "The Fallen Hero -- Betrayed Into Darkness",
+        "socialProof": "1,550+ villain origins discovered"
+    },
+    "about": {
+        "toggle": "About the Villain Origin Test",
+        "heading1": "How the Villain Origin Test Works",
+        "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
+        "heading2": "Understanding Villain Archetypes",
+        "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
     }
 }

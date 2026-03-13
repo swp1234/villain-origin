@@ -16,22 +16,70 @@
         "combo": "{count}x KOMBO"
     },
     "pairs": {
-        "p1":  { "left": "Rache",             "right": "Vergebung" },
-        "p2":  { "left": "Macht",             "right": "Verbindung" },
-        "p3":  { "left": "Überlisten",        "right": "Überwältigen" },
-        "p4":  { "left": "Allein arbeiten",   "right": "Ein Rudel führen" },
-        "p5":  { "left": "Wahres Ich verbergen", "right": "Wahres Ich zeigen" },
-        "p6":  { "left": "Jetzt handeln",     "right": "Geduldig warten" },
-        "p7":  { "left": "Alles kontrollieren","right": "Chaos umarmen" },
-        "p8":  { "left": "Niemandem vertrauen","right": "Zweite Chancen geben" },
-        "p9":  { "left": "Regeln machen",     "right": "Regeln brechen" },
-        "p10": { "left": "Kalkuliertes Risiko","right": "Alles oder nichts" },
-        "p11": { "left": "Wut treibt mich",   "right": "Kalte Logik leitet mich" },
-        "p12": { "left": "Zuerst zuschlagen", "right": "Kontern" },
-        "p13": { "left": "Fürchtet mich",     "right": "Liebt mich" },
-        "p14": { "left": "Die Welt verändern","right": "Meines beschützen" },
-        "p15": { "left": "Von Vergangenheit verfolgt", "right": "Besessen von Zukunft" },
-        "p16": { "left": "Alles niederbrennen","right": "Etwas Besseres bauen" }
+        "p1": {
+            "left": "Rache",
+            "right": "Vergebung"
+        },
+        "p2": {
+            "left": "Macht",
+            "right": "Verbindung"
+        },
+        "p3": {
+            "left": "Überlisten",
+            "right": "Überwältigen"
+        },
+        "p4": {
+            "left": "Allein arbeiten",
+            "right": "Ein Rudel führen"
+        },
+        "p5": {
+            "left": "Wahres Ich verbergen",
+            "right": "Wahres Ich zeigen"
+        },
+        "p6": {
+            "left": "Jetzt handeln",
+            "right": "Geduldig warten"
+        },
+        "p7": {
+            "left": "Alles kontrollieren",
+            "right": "Chaos umarmen"
+        },
+        "p8": {
+            "left": "Niemandem vertrauen",
+            "right": "Zweite Chancen geben"
+        },
+        "p9": {
+            "left": "Regeln machen",
+            "right": "Regeln brechen"
+        },
+        "p10": {
+            "left": "Kalkuliertes Risiko",
+            "right": "Alles oder nichts"
+        },
+        "p11": {
+            "left": "Wut treibt mich",
+            "right": "Kalte Logik leitet mich"
+        },
+        "p12": {
+            "left": "Zuerst zuschlagen",
+            "right": "Kontern"
+        },
+        "p13": {
+            "left": "Fürchtet mich",
+            "right": "Liebt mich"
+        },
+        "p14": {
+            "left": "Die Welt verändern",
+            "right": "Meines beschützen"
+        },
+        "p15": {
+            "left": "Von Vergangenheit verfolgt",
+            "right": "Besessen von Zukunft"
+        },
+        "p16": {
+            "left": "Alles niederbrennen",
+            "right": "Etwas Besseres bauen"
+        }
     },
     "archetypes": {
         "betrayed": {
@@ -80,5 +128,19 @@
     },
     "nav": {
         "back": "DopaBrain Startseite"
+    },
+    "engage": {
+        "result1": "The Mastermind -- Cold, Calculating Genius",
+        "result2": "The Anarchist -- Chaos Is the Only Freedom",
+        "result3": "The Phantom -- Silent & Unseen Manipulator",
+        "result4": "The Fallen Hero -- Betrayed Into Darkness",
+        "socialProof": "1,550+ villain origins discovered"
+    },
+    "about": {
+        "toggle": "About the Villain Origin Test",
+        "heading1": "How the Villain Origin Test Works",
+        "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
+        "heading2": "Understanding Villain Archetypes",
+        "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
     }
 }

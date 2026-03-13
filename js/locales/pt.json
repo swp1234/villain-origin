@@ -16,22 +16,70 @@
         "combo": "{count}x COMBO"
     },
     "pairs": {
-        "p1":  { "left": "Vinganca",          "right": "Perdao" },
-        "p2":  { "left": "Poder",             "right": "Conexao" },
-        "p3":  { "left": "Ser mais esperto",  "right": "Dominar pela forca" },
-        "p4":  { "left": "Trabalhar sozinho", "right": "Liderar um grupo" },
-        "p5":  { "left": "Esconder meu eu real", "right": "Mostrar meu eu real" },
-        "p6":  { "left": "Agir agora",        "right": "Esperar pacientemente" },
-        "p7":  { "left": "Controlar tudo",    "right": "Abracar o caos" },
-        "p8":  { "left": "Nao confiar em ninguem", "right": "Dar segundas chances" },
-        "p9":  { "left": "Criar regras",      "right": "Quebrar regras" },
-        "p10": { "left": "Risco calculado",   "right": "Tudo ou nada" },
-        "p11": { "left": "Raiva me alimenta", "right": "Logica fria me guia" },
-        "p12": { "left": "Atacar primeiro",   "right": "Contra-atacar" },
-        "p13": { "left": "Me temam",          "right": "Me amem" },
-        "p14": { "left": "Mudar o mundo",     "right": "Proteger o que e meu" },
-        "p15": { "left": "Assombrado pelo passado", "right": "Obcecado com o futuro" },
-        "p16": { "left": "Queimar tudo",      "right": "Construir algo melhor" }
+        "p1": {
+            "left": "Vinganca",
+            "right": "Perdao"
+        },
+        "p2": {
+            "left": "Poder",
+            "right": "Conexao"
+        },
+        "p3": {
+            "left": "Ser mais esperto",
+            "right": "Dominar pela forca"
+        },
+        "p4": {
+            "left": "Trabalhar sozinho",
+            "right": "Liderar um grupo"
+        },
+        "p5": {
+            "left": "Esconder meu eu real",
+            "right": "Mostrar meu eu real"
+        },
+        "p6": {
+            "left": "Agir agora",
+            "right": "Esperar pacientemente"
+        },
+        "p7": {
+            "left": "Controlar tudo",
+            "right": "Abracar o caos"
+        },
+        "p8": {
+            "left": "Nao confiar em ninguem",
+            "right": "Dar segundas chances"
+        },
+        "p9": {
+            "left": "Criar regras",
+            "right": "Quebrar regras"
+        },
+        "p10": {
+            "left": "Risco calculado",
+            "right": "Tudo ou nada"
+        },
+        "p11": {
+            "left": "Raiva me alimenta",
+            "right": "Logica fria me guia"
+        },
+        "p12": {
+            "left": "Atacar primeiro",
+            "right": "Contra-atacar"
+        },
+        "p13": {
+            "left": "Me temam",
+            "right": "Me amem"
+        },
+        "p14": {
+            "left": "Mudar o mundo",
+            "right": "Proteger o que e meu"
+        },
+        "p15": {
+            "left": "Assombrado pelo passado",
+            "right": "Obcecado com o futuro"
+        },
+        "p16": {
+            "left": "Queimar tudo",
+            "right": "Construir algo melhor"
+        }
     },
     "archetypes": {
         "betrayed": {
@@ -80,5 +128,19 @@
     },
     "nav": {
         "back": "DopaBrain Inicio"
+    },
+    "engage": {
+        "result1": "The Mastermind -- Cold, Calculating Genius",
+        "result2": "The Anarchist -- Chaos Is the Only Freedom",
+        "result3": "The Phantom -- Silent & Unseen Manipulator",
+        "result4": "The Fallen Hero -- Betrayed Into Darkness",
+        "socialProof": "1,550+ villain origins discovered"
+    },
+    "about": {
+        "toggle": "About the Villain Origin Test",
+        "heading1": "How the Villain Origin Test Works",
+        "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
+        "heading2": "Understanding Villain Archetypes",
+        "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
     }
 }

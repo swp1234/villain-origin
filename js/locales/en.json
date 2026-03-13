@@ -1,37 +1,85 @@
 {
     "meta": {
-        "title": "Villain Origin Test | DopaBrain",
-        "description": "Discover your villain origin story! 16 rapid-fire binary choices reveal which villain archetype you truly are."
+        "title": "What Is Your Villain Origin Story? Free Test | DopaBrain",
+        "description": "16 rapid-fire binary choices reveal your villain archetype! Are you The Mastermind, The Anarchist, or The Puppet Master? Free villain origin test with instant results."
     },
     "a11y": {
         "skip": "Skip to content"
     },
     "app": {
-        "title": "Villain Origin Test",
+        "title": "What Is Your Villain Origin Story? - Villain Origin Test",
         "subtitle": "What made you the villain?",
         "description": "16 rapid-fire binary choices. No thinking, just instinct. Tap left or right to reveal your villain origin story.",
-        "start": "Reveal My Origin"
+        "start": "Reveal My Origin - Free"
     },
     "quiz": {
         "combo": "{count}x COMBO"
     },
     "pairs": {
-        "p1":  { "left": "Revenge",           "right": "Forgiveness" },
-        "p2":  { "left": "Power",             "right": "Connection" },
-        "p3":  { "left": "Outsmart them",     "right": "Overpower them" },
-        "p4":  { "left": "Work alone",        "right": "Lead a pack" },
-        "p5":  { "left": "Hide true self",    "right": "Show true self" },
-        "p6":  { "left": "Act now",           "right": "Wait patiently" },
-        "p7":  { "left": "Control everything","right": "Embrace chaos" },
-        "p8":  { "left": "Trust no one",      "right": "Give second chances" },
-        "p9":  { "left": "Make rules",        "right": "Break rules" },
-        "p10": { "left": "Calculated risk",   "right": "All or nothing" },
-        "p11": { "left": "Anger fuels me",    "right": "Cold logic guides me" },
-        "p12": { "left": "Strike first",      "right": "Counter-attack" },
-        "p13": { "left": "Fear me",           "right": "Love me" },
-        "p14": { "left": "Change the world",  "right": "Protect what's mine" },
-        "p15": { "left": "Haunted by past",   "right": "Obsessed with future" },
-        "p16": { "left": "Burn it down",      "right": "Build something better" }
+        "p1": {
+            "left": "Revenge",
+            "right": "Forgiveness"
+        },
+        "p2": {
+            "left": "Power",
+            "right": "Connection"
+        },
+        "p3": {
+            "left": "Outsmart them",
+            "right": "Overpower them"
+        },
+        "p4": {
+            "left": "Work alone",
+            "right": "Lead a pack"
+        },
+        "p5": {
+            "left": "Hide true self",
+            "right": "Show true self"
+        },
+        "p6": {
+            "left": "Act now",
+            "right": "Wait patiently"
+        },
+        "p7": {
+            "left": "Control everything",
+            "right": "Embrace chaos"
+        },
+        "p8": {
+            "left": "Trust no one",
+            "right": "Give second chances"
+        },
+        "p9": {
+            "left": "Make rules",
+            "right": "Break rules"
+        },
+        "p10": {
+            "left": "Calculated risk",
+            "right": "All or nothing"
+        },
+        "p11": {
+            "left": "Anger fuels me",
+            "right": "Cold logic guides me"
+        },
+        "p12": {
+            "left": "Strike first",
+            "right": "Counter-attack"
+        },
+        "p13": {
+            "left": "Fear me",
+            "right": "Love me"
+        },
+        "p14": {
+            "left": "Change the world",
+            "right": "Protect what's mine"
+        },
+        "p15": {
+            "left": "Haunted by past",
+            "right": "Obsessed with future"
+        },
+        "p16": {
+            "left": "Burn it down",
+            "right": "Build something better"
+        }
     },
     "archetypes": {
         "betrayed": {
@@ -80,5 +128,19 @@
     },
     "nav": {
         "back": "DopaBrain Home"
+    },
+    "engage": {
+        "result1": "The Mastermind -- Cold, Calculating Genius",
+        "result2": "The Anarchist -- Chaos Is the Only Freedom",
+        "result3": "The Phantom -- Silent & Unseen Manipulator",
+        "result4": "The Fallen Hero -- Betrayed Into Darkness",
+        "socialProof": "1,550+ villain origins discovered"
+    },
+    "about": {
+        "toggle": "About the Villain Origin Test",
+        "heading1": "How the Villain Origin Test Works",
+        "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
+        "heading2": "Understanding Villain Archetypes",
+        "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
     }
 }
