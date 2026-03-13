@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "Kötü Adam Özellikleri",
-        "retake": "Yeniden Yap"
+        "retake": "Yeniden Yap",
+        "moreTests": "Daha Fazla Test",
+        "percentileStat": "Oyuncularin yalnizca <strong>{percent}%</strong>'i ayni kötü adam kökenini aldi"
+    },
+    "related": {
+        "villainType": "Kötü Adam Tipi",
+        "darkCore": "Karanlik Cekirdek",
+        "toxicTrait": "Toksik Özellik",
+        "npcTest": "NPC Testi"
     },
     "share": {
         "title": "Kökenini Paylas",

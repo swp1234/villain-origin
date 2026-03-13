@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "Tracos de Vilao",
-        "retake": "Refazer Teste"
+        "retake": "Refazer Teste",
+        "moreTests": "Mais Testes",
+        "percentileStat": "Apenas <strong>{percent}%</strong> dos jogadores obtiveram a mesma origem vilao"
+    },
+    "related": {
+        "villainType": "Tipo de Vilao",
+        "darkCore": "Nucleo Sombrio",
+        "toxicTrait": "Traco Toxico",
+        "npcTest": "Teste NPC"
     },
     "share": {
         "title": "Compartilhe Sua Origem",

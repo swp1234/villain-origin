@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "ヴィラン特性",
-        "retake": "もう一度"
+        "retake": "もう一度",
+        "moreTests": "関連テスト",
+        "percentileStat": "プレイヤーの<strong>{percent}%</strong>だけが同じヴィラン・オリジンでした"
+    },
+    "related": {
+        "villainType": "ヴィランタイプ",
+        "darkCore": "ダークコア",
+        "toxicTrait": "毒性特性",
+        "npcTest": "NPC診断"
     },
     "share": {
         "title": "結果をシェア",

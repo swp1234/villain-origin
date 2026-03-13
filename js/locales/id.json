@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "Sifat Penjahat",
-        "retake": "Ulangi Tes"
+        "retake": "Ulangi Tes",
+        "moreTests": "Tes Lainnya",
+        "percentileStat": "Hanya <strong>{percent}%</strong> pemain yang mendapat asal-usul penjahat yang sama"
+    },
+    "related": {
+        "villainType": "Tipe Penjahat",
+        "darkCore": "Inti Gelap",
+        "toxicTrait": "Sifat Beracun",
+        "npcTest": "Tes NPC"
     },
     "share": {
         "title": "Bagikan Asal-Usulmu",

@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "Traits de Vilain",
-        "retake": "Refaire le Test"
+        "retake": "Refaire le Test",
+        "moreTests": "Plus de Tests",
+        "percentileStat": "Seulement <strong>{percent}%</strong> des joueurs ont obtenu la meme origine de vilain"
+    },
+    "related": {
+        "villainType": "Type de Vilain",
+        "darkCore": "Noyau Sombre",
+        "toxicTrait": "Trait Toxique",
+        "npcTest": "Test NPC"
     },
     "share": {
         "title": "Partagez Votre Origine",

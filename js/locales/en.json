@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "Villain Traits",
-        "retake": "Retake Test"
+        "retake": "Retake Test",
+        "moreTests": "More Tests",
+        "percentileStat": "Only <strong>{percent}%</strong> of players got the same villain origin"
+    },
+    "related": {
+        "villainType": "Villain Type",
+        "darkCore": "Dark Core",
+        "toxicTrait": "Toxic Trait",
+        "npcTest": "NPC Test"
     },
     "share": {
         "title": "Share Your Origin",

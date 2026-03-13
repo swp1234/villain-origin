@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "खलनायक गुण",
-        "retake": "दोबारा परीक्षण करें"
+        "retake": "दोबारा परीक्षण करें",
+        "moreTests": "और परीक्षण",
+        "percentileStat": "केवल <strong>{percent}%</strong> खिलाड़ियों को समान खलनायक मूल मिला"
+    },
+    "related": {
+        "villainType": "खलनायक प्रकार",
+        "darkCore": "डार्क कोर",
+        "toxicTrait": "विषैला गुण",
+        "npcTest": "NPC परीक्षण"
     },
     "share": {
         "title": "अपना मूल साझा करें",

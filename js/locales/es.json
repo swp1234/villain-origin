@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "Rasgos de Villano",
-        "retake": "Repetir Test"
+        "retake": "Repetir Test",
+        "moreTests": "Mas Tests",
+        "percentileStat": "Solo el <strong>{percent}%</strong> de los jugadores obtuvo el mismo origen villano"
+    },
+    "related": {
+        "villainType": "Tipo de Villano",
+        "darkCore": "Nucleo Oscuro",
+        "toxicTrait": "Rasgo Toxico",
+        "npcTest": "Test NPC"
     },
     "share": {
         "title": "Comparte Tu Origen",

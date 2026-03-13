@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "反派特质",
-        "retake": "重新测试"
+        "retake": "重新测试",
+        "moreTests": "相关测试",
+        "percentileStat": "仅有<strong>{percent}%</strong>的玩家获得了相同的反派起源"
+    },
+    "related": {
+        "villainType": "反派类型",
+        "darkCore": "暗黑核心",
+        "toxicTrait": "毒性特质",
+        "npcTest": "NPC测试"
     },
     "share": {
         "title": "分享你的起源",

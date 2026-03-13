@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "Bösewicht-Merkmale",
-        "retake": "Nochmal machen"
+        "retake": "Nochmal machen",
+        "moreTests": "Weitere Tests",
+        "percentileStat": "Nur <strong>{percent}%</strong> der Spieler erhielten denselben Bösewicht-Ursprung"
+    },
+    "related": {
+        "villainType": "Bösewicht-Typ",
+        "darkCore": "Dunkler Kern",
+        "toxicTrait": "Toxische Eigenschaft",
+        "npcTest": "NPC-Test"
     },
     "share": {
         "title": "Teile deinen Ursprung",

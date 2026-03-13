@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "Злодейские Черты",
-        "retake": "Пройти снова"
+        "retake": "Пройти снова",
+        "moreTests": "Ещё тесты",
+        "percentileStat": "Только <strong>{percent}%</strong> игроков получили такое же злодейское происхождение"
+    },
+    "related": {
+        "villainType": "Тип Злодея",
+        "darkCore": "Тёмное Ядро",
+        "toxicTrait": "Токсичная Черта",
+        "npcTest": "NPC Тест"
     },
     "share": {
         "title": "Поделитесь Своим Происхождением",

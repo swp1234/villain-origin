@@ -61,7 +61,15 @@
     },
     "result": {
         "breakdown": "빌런 특성",
-        "retake": "다시 하기"
+        "retake": "다시 하기",
+        "moreTests": "관련 테스트",
+        "percentileStat": "플레이어 중 <strong>{percent}%</strong>만이 같은 빌런 오리진을 받았습니다"
+    },
+    "related": {
+        "villainType": "빌런 유형",
+        "darkCore": "다크 코어",
+        "toxicTrait": "독성 특성",
+        "npcTest": "NPC 테스트"
     },
     "share": {
         "title": "결과 공유하기",
