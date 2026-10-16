@@ -1,146 +1,148 @@
 {
-    "meta": {
-        "title": "What Is Your Villain Origin Story? Free Test | DopaBrain",
-        "description": "16 rapid-fire binary choices reveal your villain archetype! Are you The Mastermind, The Anarchist, or The Puppet Master? Free villain origin test with instant results."
+  "meta": {
+    "title": "What Is Your Villain Origin Story? Free Test | DopaBrain",
+    "description": "16 rapid-fire binary choices reveal your villain archetype! Are you The Mastermind, The Anarchist, or The Puppet Master? Free villain origin test with instant results."
+  },
+  "a11y": {
+    "skip": "Skip to content"
+  },
+  "app": {
+    "title": "What Is Your Villain Origin Story? - Villain Origin Test",
+    "subtitle": "What made you the villain?",
+    "description": "16 rapid-fire binary choices. No thinking, just instinct. Tap left or right to reveal your villain origin story.",
+    "start": "Reveal My Origin - Free"
+  },
+  "quiz": {
+    "combo": "{count}x COMBO"
+  },
+  "pairs": {
+    "p1": {
+      "left": "Revenge",
+      "right": "Forgiveness"
     },
-    "a11y": {
-        "skip": "Skip to content"
+    "p2": {
+      "left": "Power",
+      "right": "Connection"
     },
-    "app": {
-        "title": "What Is Your Villain Origin Story? - Villain Origin Test",
-        "subtitle": "What made you the villain?",
-        "description": "16 rapid-fire binary choices. No thinking, just instinct. Tap left or right to reveal your villain origin story.",
-        "start": "Reveal My Origin - Free"
+    "p3": {
+      "left": "Outsmart them",
+      "right": "Overpower them"
     },
-    "quiz": {
-        "combo": "{count}x COMBO"
+    "p4": {
+      "left": "Work alone",
+      "right": "Lead a pack"
     },
-    "pairs": {
-        "p1": {
-            "left": "Revenge",
-            "right": "Forgiveness"
-        },
-        "p2": {
-            "left": "Power",
-            "right": "Connection"
-        },
-        "p3": {
-            "left": "Outsmart them",
-            "right": "Overpower them"
-        },
-        "p4": {
-            "left": "Work alone",
-            "right": "Lead a pack"
-        },
-        "p5": {
-            "left": "Hide true self",
-            "right": "Show true self"
-        },
-        "p6": {
-            "left": "Act now",
-            "right": "Wait patiently"
-        },
-        "p7": {
-            "left": "Control everything",
-            "right": "Embrace chaos"
-        },
-        "p8": {
-            "left": "Trust no one",
-            "right": "Give second chances"
-        },
-        "p9": {
-            "left": "Make rules",
-            "right": "Break rules"
-        },
-        "p10": {
-            "left": "Calculated risk",
-            "right": "All or nothing"
-        },
-        "p11": {
-            "left": "Anger fuels me",
-            "right": "Cold logic guides me"
-        },
-        "p12": {
-            "left": "Strike first",
-            "right": "Counter-attack"
-        },
-        "p13": {
-            "left": "Fear me",
-            "right": "Love me"
-        },
-        "p14": {
-            "left": "Change the world",
-            "right": "Protect what's mine"
-        },
-        "p15": {
-            "left": "Haunted by past",
-            "right": "Obsessed with future"
-        },
-        "p16": {
-            "left": "Burn it down",
-            "right": "Build something better"
-        }
+    "p5": {
+      "left": "Hide true self",
+      "right": "Show true self"
     },
-    "archetypes": {
-        "betrayed": {
-            "name": "The Betrayed",
-            "narrative": "You were forged in the fires of broken trust. Someone you loved turned their back on you, and the wound never healed. Now you walk through the world with walls so high nobody can reach you. Your pain is your armor, and your memory is your weapon."
-        },
-        "mastermind": {
-            "name": "The Mastermind",
-            "narrative": "While others acted on impulse, you learned to think ten steps ahead. Every move is calculated, every word is deliberate. You don't need brute force when you can dismantle someone's entire world with a single phone call. The chessboard is your kingdom."
-        },
-        "anarchist": {
-            "name": "The Anarchist",
-            "narrative": "Rules were written by the powerful to keep the powerless in check. You saw through the illusion early. Now you tear down every system, every institution, every comfortable lie. Some call it destruction. You call it liberation."
-        },
-        "fallenHero": {
-            "name": "The Fallen Hero",
-            "narrative": "You started with noble intentions. You wanted to save the world, protect the innocent, be the good one. But the world kept taking and taking until there was nothing left of who you used to be. The hero died. Something darker took its place."
-        },
-        "phantom": {
-            "name": "The Phantom",
-            "narrative": "You exist in the shadows, unseen and unknown. By the time they realize you were there, it's already too late. You've mastered the art of invisibility, pulling strings from the darkness. No one fears what they can't see — until they do."
-        },
-        "conqueror": {
-            "name": "The Conqueror",
-            "narrative": "Power isn't something you want — it's something you are. You were born to command, to dominate, to rule. Every room you enter becomes your throne room. Weakness disgusts you. The world doesn't need saving. It needs a stronger hand."
-        }
+    "p6": {
+      "left": "Act now",
+      "right": "Wait patiently"
     },
-    "result": {
-        "breakdown": "Villain Traits",
-        "retake": "Retake Test",
-        "moreTests": "More Tests",
-        "percentileStat": "Only <strong>{percent}%</strong> of players got the same villain origin"
+    "p7": {
+      "left": "Control everything",
+      "right": "Embrace chaos"
     },
-    "related": {
-        "villainType": "Villain Type",
-        "darkCore": "Dark Core",
-        "toxicTrait": "Toxic Trait",
-        "npcTest": "NPC Test"
+    "p8": {
+      "left": "Trust no one",
+      "right": "Give second chances"
     },
-    "share": {
-        "title": "Share Your Origin",
-        "text": "My villain origin is \"{archetype}\"! What made you the villain?",
-        "twitter": "Share on X",
-        "copyUrl": "Copy Link",
-        "copied": "Copied!"
+    "p9": {
+      "left": "Make rules",
+      "right": "Break rules"
     },
-    "nav": {
-        "back": "DopaBrain Home"
+    "p10": {
+      "left": "Calculated risk",
+      "right": "All or nothing"
     },
-    "engage": {
-        "result1": "The Mastermind -- Cold, Calculating Genius",
-        "result2": "The Anarchist -- Chaos Is the Only Freedom",
-        "result3": "The Phantom -- Silent & Unseen Manipulator",
-        "result4": "The Fallen Hero -- Betrayed Into Darkness",
-        "socialProof": "1,550+ villain origins discovered"
+    "p11": {
+      "left": "Anger fuels me",
+      "right": "Cold logic guides me"
     },
-    "about": {
-        "toggle": "About the Villain Origin Test",
-        "heading1": "How the Villain Origin Test Works",
-        "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
-        "heading2": "Understanding Villain Archetypes",
-        "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+    "p12": {
+      "left": "Strike first",
+      "right": "Counter-attack"
+    },
+    "p13": {
+      "left": "Fear me",
+      "right": "Love me"
+    },
+    "p14": {
+      "left": "Change the world",
+      "right": "Protect what's mine"
+    },
+    "p15": {
+      "left": "Haunted by past",
+      "right": "Obsessed with future"
+    },
+    "p16": {
+      "left": "Burn it down",
+      "right": "Build something better"
     }
+  },
+  "archetypes": {
+    "betrayed": {
+      "name": "The Betrayed",
+      "narrative": "You were forged in the fires of broken trust. Someone you loved turned their back on you, and the wound never healed. Now you walk through the world with walls so high nobody can reach you. Your pain is your armor, and your memory is your weapon."
+    },
+    "mastermind": {
+      "name": "The Mastermind",
+      "narrative": "While others acted on impulse, you learned to think ten steps ahead. Every move is calculated, every word is deliberate. You don't need brute force when you can dismantle someone's entire world with a single phone call. The chessboard is your kingdom."
+    },
+    "anarchist": {
+      "name": "The Anarchist",
+      "narrative": "Rules were written by the powerful to keep the powerless in check. You saw through the illusion early. Now you tear down every system, every institution, every comfortable lie. Some call it destruction. You call it liberation."
+    },
+    "fallenHero": {
+      "name": "The Fallen Hero",
+      "narrative": "You started with noble intentions. You wanted to save the world, protect the innocent, be the good one. But the world kept taking and taking until there was nothing left of who you used to be. The hero died. Something darker took its place."
+    },
+    "phantom": {
+      "name": "The Phantom",
+      "narrative": "You exist in the shadows, unseen and unknown. By the time they realize you were there, it's already too late. You've mastered the art of invisibility, pulling strings from the darkness. No one fears what they can't see — until they do."
+    },
+    "conqueror": {
+      "name": "The Conqueror",
+      "narrative": "Power isn't something you want — it's something you are. You were born to command, to dominate, to rule. Every room you enter becomes your throne room. Weakness disgusts you. The world doesn't need saving. It needs a stronger hand."
+    }
+  },
+  "result": {
+    "breakdown": "Villain Traits",
+    "retake": "Retake Test",
+    "moreTests": "More Tests",
+    "percentileStat": "Only <strong>{percent}%</strong> of players got the same villain origin"
+  },
+  "related": {
+    "villainType": "Villain Type",
+    "darkCore": "Dark Core",
+    "toxicTrait": "Toxic Trait",
+    "npcTest": "NPC Test",
+    "shadowWork": "Shadow Work",
+    "redGreenFlag": "Red & Green Flag"
+  },
+  "share": {
+    "title": "Share Your Origin",
+    "text": "My villain origin is \"{archetype}\"! What made you the villain?",
+    "twitter": "Share on X",
+    "copyUrl": "Copy Link",
+    "copied": "Copied!"
+  },
+  "nav": {
+    "back": "DopaBrain Home"
+  },
+  "engage": {
+    "result1": "The Mastermind -- Cold, Calculating Genius",
+    "result2": "The Anarchist -- Chaos Is the Only Freedom",
+    "result3": "The Phantom -- Silent & Unseen Manipulator",
+    "result4": "The Fallen Hero -- Betrayed Into Darkness",
+    "socialProof": "1,550+ villain origins discovered"
+  },
+  "about": {
+    "toggle": "About the Villain Origin Test",
+    "heading1": "How the Villain Origin Test Works",
+    "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
+    "heading2": "Understanding Villain Archetypes",
+    "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+  }
 }
