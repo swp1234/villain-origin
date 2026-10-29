@@ -116,11 +116,10 @@
   },
   "related": {
     "villainType": "Type de Vilain",
-    "darkCore": "Noyau Sombre",
     "toxicTrait": "Trait Toxique",
     "npcTest": "Test NPC",
-    "shadowWork": "Travail de l’Ombre",
-    "redGreenFlag": "Red & Green Flags"
+    "redGreenFlag": "Red & Green Flags",
+    "socialBattery": "Batterie Sociale"
   },
   "share": {
     "title": "Partagez Votre Origine",

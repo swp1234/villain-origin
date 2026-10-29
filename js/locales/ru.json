@@ -116,11 +116,10 @@
   },
   "related": {
     "villainType": "Тип Злодея",
-    "darkCore": "Тёмное Ядро",
     "toxicTrait": "Токсичная Черта",
     "npcTest": "NPC Тест",
-    "shadowWork": "Работа с тенью",
-    "redGreenFlag": "Красный или зелёный флаг"
+    "redGreenFlag": "Красный или зелёный флаг",
+    "socialBattery": "Социальная батарейка"
   },
   "share": {
     "title": "Поделитесь Своим Происхождением",

@@ -116,11 +116,10 @@
   },
   "related": {
     "villainType": "खलनायक प्रकार",
-    "darkCore": "डार्क कोर",
     "toxicTrait": "विषैला गुण",
     "npcTest": "NPC परीक्षण",
-    "shadowWork": "शैडो वर्क क्विज़",
-    "redGreenFlag": "रेड और ग्रीन फ़्लैग"
+    "redGreenFlag": "रेड और ग्रीन फ़्लैग",
+    "socialBattery": "सोशल बैटरी"
   },
   "share": {
     "title": "अपना मूल साझा करें",

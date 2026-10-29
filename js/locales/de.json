@@ -116,11 +116,10 @@
   },
   "related": {
     "villainType": "Bösewicht-Typ",
-    "darkCore": "Dunkler Kern",
     "toxicTrait": "Toxische Eigenschaft",
     "npcTest": "NPC-Test",
-    "shadowWork": "Schattenarbeit",
-    "redGreenFlag": "Red & Green Flags"
+    "redGreenFlag": "Red & Green Flags",
+    "socialBattery": "Soziale Batterie"
   },
   "share": {
     "title": "Teile deinen Ursprung",

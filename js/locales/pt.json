@@ -116,11 +116,10 @@
   },
   "related": {
     "villainType": "Tipo de Vilao",
-    "darkCore": "Nucleo Sombrio",
     "toxicTrait": "Traco Toxico",
     "npcTest": "Teste NPC",
-    "shadowWork": "Trabalho de Sombra",
-    "redGreenFlag": "Red & Green Flags"
+    "redGreenFlag": "Red & Green Flags",
+    "socialBattery": "Bateria Social"
   },
   "share": {
     "title": "Compartilhe Sua Origem",

@@ -116,11 +116,10 @@
   },
   "related": {
     "villainType": "反派类型",
-    "darkCore": "暗黑核心",
     "toxicTrait": "毒性特质",
     "npcTest": "NPC测试",
-    "shadowWork": "阴影工作测验",
-    "redGreenFlag": "红旗与绿旗测试"
+    "redGreenFlag": "红旗与绿旗测试",
+    "socialBattery": "社交电量测试"
   },
   "share": {
     "title": "分享你的起源",

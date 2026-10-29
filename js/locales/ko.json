@@ -116,11 +116,10 @@
   },
   "related": {
     "villainType": "빌런 유형",
-    "darkCore": "다크 코어",
     "toxicTrait": "독성 특성",
     "npcTest": "NPC 테스트",
-    "shadowWork": "섀도우 워크 퀴즈",
-    "redGreenFlag": "레드 & 그린 플래그"
+    "redGreenFlag": "레드 & 그린 플래그",
+    "socialBattery": "사회적 배터리"
   },
   "share": {
     "title": "결과 공유하기",

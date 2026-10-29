@@ -116,11 +116,10 @@
   },
   "related": {
     "villainType": "Tipe Penjahat",
-    "darkCore": "Inti Gelap",
     "toxicTrait": "Sifat Beracun",
     "npcTest": "Tes NPC",
-    "shadowWork": "Shadow Work",
-    "redGreenFlag": "Red & Green Flag"
+    "redGreenFlag": "Red & Green Flag",
+    "socialBattery": "Baterai Sosial"
   },
   "share": {
     "title": "Bagikan Asal-Usulmu",

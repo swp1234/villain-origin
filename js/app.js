@@ -243,7 +243,8 @@
             document.querySelectorAll('a[href^="/"]').forEach(function(a) {
                 var href = a.getAttribute('href');
                 if (!href) return;
-                var url = new URL(href, window.location.origin);
+                var base = (window.location.origin && window.location.origin !== 'null') ? window.location.origin : 'https://dopabrain.com';
+                var url = new URL(href, base);
                 if (!url.searchParams.has('lang')) {
                     url.searchParams.set('lang', lang);
                     a.setAttribute('href', url.pathname + url.search + url.hash);
@@ -640,6 +641,7 @@
         initTheme();
         initLangSelector();
         bindEvents();
+        preserveLanguageLinks();
 
         var inst = getI18n();
         if (inst && typeof inst.loadTranslations === 'function') {

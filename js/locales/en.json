@@ -116,11 +116,10 @@
   },
   "related": {
     "villainType": "Villain Type",
-    "darkCore": "Dark Core",
     "toxicTrait": "Toxic Trait",
     "npcTest": "NPC Test",
-    "shadowWork": "Shadow Work",
-    "redGreenFlag": "Red & Green Flag"
+    "redGreenFlag": "Red & Green Flag",
+    "socialBattery": "Social Battery"
   },
   "share": {
     "title": "Share Your Origin",

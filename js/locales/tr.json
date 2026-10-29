@@ -116,11 +116,10 @@
   },
   "related": {
     "villainType": "Kötü Adam Tipi",
-    "darkCore": "Karanlik Cekirdek",
     "toxicTrait": "Toksik Özellik",
     "npcTest": "NPC Testi",
-    "shadowWork": "Gölge Çalışması",
-    "redGreenFlag": "Kırmızı & Yeşil Bayrak"
+    "redGreenFlag": "Kırmızı & Yeşil Bayrak",
+    "socialBattery": "Sosyal Batarya"
   },
   "share": {
     "title": "Kökenini Paylas",
