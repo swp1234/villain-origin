@@ -111,7 +111,8 @@
     "breakdown": "Kötü Adam Özellikleri",
     "retake": "Yeniden Yap",
     "moreTests": "Daha Fazla Test",
-    "percentileStat": "Oyuncularin yalnizca <strong>{percent}%</strong>'i ayni kötü adam kökenini aldi"
+    "percentileStat": "Kötü adam kökenin 16 dramatik ikilemdeki içgüdüsel seçimlerini yansıtır.",
+    "profileStat": "Kötü adam kökenin 16 dramatik ikilemdeki içgüdüsel seçimlerini yansıtır."
   },
   "related": {
     "villainType": "Kötü Adam Tipi",
@@ -136,7 +137,7 @@
     "result2": "The Anarchist -- Chaos Is the Only Freedom",
     "result3": "The Phantom -- Silent & Unseen Manipulator",
     "result4": "The Fallen Hero -- Betrayed Into Darkness",
-    "socialProof": "1,550+ villain origins discovered"
+    "socialProof": "16 ikilem sorusu · %100 kişisel ve gizli"
   },
   "about": {
     "toggle": "About the Villain Origin Test",

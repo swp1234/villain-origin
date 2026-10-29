@@ -111,7 +111,8 @@
     "breakdown": "खलनायक गुण",
     "retake": "दोबारा परीक्षण करें",
     "moreTests": "और परीक्षण",
-    "percentileStat": "केवल <strong>{percent}%</strong> खिलाड़ियों को समान खलनायक मूल मिला"
+    "percentileStat": "आपका खलनायक मूल 16 नाटकीय दुविधाओं में आपके सहज विकल्पों को दर्शाता है।",
+    "profileStat": "आपका खलनायक मूल 16 नाटकीय दुविधाओं में आपके सहज विकल्पों को दर्शाता है।"
   },
   "related": {
     "villainType": "खलनायक प्रकार",
@@ -136,7 +137,7 @@
     "result2": "The Anarchist -- Chaos Is the Only Freedom",
     "result3": "The Phantom -- Silent & Unseen Manipulator",
     "result4": "The Fallen Hero -- Betrayed Into Darkness",
-    "socialProof": "1,550+ villain origins discovered"
+    "socialProof": "16 दुविधाएँ · 100% निजी आत्म-प्रतिबिंब"
   },
   "about": {
     "toggle": "About the Villain Origin Test",

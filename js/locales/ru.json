@@ -111,7 +111,8 @@
     "breakdown": "Злодейские Черты",
     "retake": "Пройти снова",
     "moreTests": "Ещё тесты",
-    "percentileStat": "Только <strong>{percent}%</strong> игроков получили такое же злодейское происхождение"
+    "percentileStat": "Ваше злодейское происхождение отражает инстинктивные выборы в 16 драматических дилеммах.",
+    "profileStat": "Ваше злодейское происхождение отражает инстинктивные выборы в 16 драматических дилеммах."
   },
   "related": {
     "villainType": "Тип Злодея",
@@ -136,7 +137,7 @@
     "result2": "The Anarchist -- Chaos Is the Only Freedom",
     "result3": "The Phantom -- Silent & Unseen Manipulator",
     "result4": "The Fallen Hero -- Betrayed Into Darkness",
-    "socialProof": "1,550+ villain origins discovered"
+    "socialProof": "16 дилемм · 100% приватная рефлексия"
   },
   "about": {
     "toggle": "About the Villain Origin Test",

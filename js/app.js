@@ -234,6 +234,24 @@
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
+
+    function preserveLanguageLinks() {
+        try {
+            var params = new URLSearchParams(window.location.search);
+            var lang = params.get('lang');
+            if (!lang) return;
+            document.querySelectorAll('a[href^="/"]').forEach(function(a) {
+                var href = a.getAttribute('href');
+                if (!href) return;
+                var url = new URL(href, window.location.origin);
+                if (!url.searchParams.has('lang')) {
+                    url.searchParams.set('lang', lang);
+                    a.setAttribute('href', url.pathname + url.search + url.hash);
+                }
+            });
+        } catch (e) {}
+    }
+
     // --- Theme toggle ---
     function initTheme() {
         var saved = localStorage.getItem('theme');
@@ -437,12 +455,11 @@
         // Trait breakdown bars
         renderTraitBars();
 
-        // Percentile stat
-        var percentile = Math.floor(Math.random() * 15) + 3;
+        // Profile reflection stat
         var percentileEl = document.getElementById('percentile-stat');
         if (percentileEl) {
-            var pText = t('result.percentileStat', 'Only <strong>{percent}%</strong> of players got the same villain origin');
-            percentileEl.innerHTML = pText.replace('{percent}', percentile);
+            var pText = t('result.profileStat', 'Your archetype reflects choice patterns across 16 dramatic dilemmas.');
+            percentileEl.textContent = pText;
         }
 
         // GA4 event

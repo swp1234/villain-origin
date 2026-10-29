@@ -111,7 +111,8 @@
     "breakdown": "Traits de Vilain",
     "retake": "Refaire le Test",
     "moreTests": "Plus de Tests",
-    "percentileStat": "Seulement <strong>{percent}%</strong> des joueurs ont obtenu la meme origine de vilain"
+    "percentileStat": "Votre origine de vilain reflète vos schémas de choix à travers 16 dilemmes dramatiques.",
+    "profileStat": "Votre origine de vilain reflète vos schémas de choix à travers 16 dilemmes dramatiques."
   },
   "related": {
     "villainType": "Type de Vilain",
@@ -136,7 +137,7 @@
     "result2": "The Anarchist -- Chaos Is the Only Freedom",
     "result3": "The Phantom -- Silent & Unseen Manipulator",
     "result4": "The Fallen Hero -- Betrayed Into Darkness",
-    "socialProof": "1,550+ villain origins discovered"
+    "socialProof": "16 dilemmes · Réflexion 100% privée"
   },
   "about": {
     "toggle": "About the Villain Origin Test",

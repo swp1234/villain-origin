@@ -111,7 +111,8 @@
     "breakdown": "Rasgos de Villano",
     "retake": "Repetir Test",
     "moreTests": "Mas Tests",
-    "percentileStat": "Solo el <strong>{percent}%</strong> de los jugadores obtuvo el mismo origen villano"
+    "percentileStat": "Tu origen de villano refleja tus patrones de elección en 16 dilemas dramáticos.",
+    "profileStat": "Tu origen de villano refleja tus patrones de elección en 16 dilemas dramáticos."
   },
   "related": {
     "villainType": "Tipo de Villano",
@@ -136,7 +137,7 @@
     "result2": "The Anarchist -- Chaos Is the Only Freedom",
     "result3": "The Phantom -- Silent & Unseen Manipulator",
     "result4": "The Fallen Hero -- Betrayed Into Darkness",
-    "socialProof": "1,550+ villain origins discovered"
+    "socialProof": "16 dilemas · Reflexión 100% privada"
   },
   "about": {
     "toggle": "About the Villain Origin Test",

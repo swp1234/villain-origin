@@ -111,7 +111,8 @@
     "breakdown": "빌런 특성",
     "retake": "다시 하기",
     "moreTests": "관련 테스트",
-    "percentileStat": "플레이어 중 <strong>{percent}%</strong>만이 같은 빌런 오리진을 받았습니다"
+    "percentileStat": "당신의 빌런 오리진은 16가지 극적 딜레마에서 나타난 본능적인 선택 패턴입니다.",
+    "profileStat": "당신의 빌런 오리진은 16가지 극적 딜레마에서 나타난 본능적인 선택 패턴입니다."
   },
   "related": {
     "villainType": "빌런 유형",
@@ -136,7 +137,7 @@
     "result2": "아나키스트 -- 혼돈만이 유일한 자유",
     "result3": "팬텀 -- 조용하고 보이지 않는 조종자",
     "result4": "타락한 영웅 -- 배신당해 어둠에 빠진",
-    "socialProof": "1,550+명이 빌런 기원을 발견했어요"
+    "socialProof": "16가지 선택 딜레마 · 100% 프라이빗 성찰"
   },
   "about": {
     "toggle": "빌런 오리진 테스트 알아보기",

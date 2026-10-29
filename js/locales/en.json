@@ -111,7 +111,8 @@
     "breakdown": "Villain Traits",
     "retake": "Retake Test",
     "moreTests": "More Tests",
-    "percentileStat": "Only <strong>{percent}%</strong> of players got the same villain origin"
+    "percentileStat": "Your archetype reflects choice patterns across 16 dramatic dilemmas.",
+    "profileStat": "Your archetype reflects choice patterns across 16 dramatic dilemmas."
   },
   "related": {
     "villainType": "Villain Type",
@@ -136,7 +137,7 @@
     "result2": "The Anarchist -- Chaos Is the Only Freedom",
     "result3": "The Phantom -- Silent & Unseen Manipulator",
     "result4": "The Fallen Hero -- Betrayed Into Darkness",
-    "socialProof": "1,550+ villain origins discovered"
+    "socialProof": "16 Dilemmas · 100% Private Reflection"
   },
   "about": {
     "toggle": "About the Villain Origin Test",
