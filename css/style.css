@@ -1120,7 +1120,7 @@ footer a:hover {
 
 .related-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
 }
 
@@ -1128,8 +1128,13 @@ footer a:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 6px;
   padding: 14px 8px;
+  min-height: 44px;
+  min-width: 44px;
+  box-sizing: border-box;
+  touch-action: manipulation;
   background: var(--glass-bg);
   border: 1px solid var(--glass-border);
   border-radius: var(--radius-sm);
