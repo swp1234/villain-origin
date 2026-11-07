@@ -139,10 +139,31 @@
     "socialProof": "16 dilemmes · Réflexion 100% privée"
   },
   "about": {
-    "toggle": "About the Villain Origin Test",
-    "heading1": "How the Villain Origin Test Works",
-    "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
-    "heading2": "Understanding Villain Archetypes",
-    "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+    "toggle": "À propos du Test d'Origine de Méchant & Archétypes Psychologiques",
+    "heading1": "Psychologie Narrative et Réaction à l'Adversité",
+    "text1": "En psychologie narrative, les antagonistes naissent rarement par hasard : ils se forgent en réaction à la trahison, aux injustices ou à la solitude. À travers 16 dilemmes binaires spontanés, ce test explore l'archétype narratif qui fait écho à vos réflexes de protection.",
+    "boundary": "Limite d'introspection : Cette activité est un outil narratif et récréatif. Elle ne constitue en aucun cas un diagnostic psychologique ou médical.",
+    "heading2": "Six Archétypes d'Origine Narrative",
+    "aBetrayed": "Le Trahi (The Betrayed)",
+    "dBetrayed": "Marqué par la confiance rompue ; érige des forteresses émotionnelles et use d'une vigilance constante comme armure.",
+    "aMastermind": "Le Cerveau (The Mastermind)",
+    "dMastermind": "Calcule chaque éventualité ; s'appuie sur une stratégie lucide et le détachement pour maîtriser son environnement.",
+    "aAnarchist": "L'Anarchiste (The Anarchist)",
+    "dAnarchist": "Désabusé par les conventions rigides ; embrasse l'imprévisible pour déconstruire les systèmes oppressifs.",
+    "aFallenHero": "Le Héros Déchu (The Fallen Hero)",
+    "dFallenHero": "Épuisé par un dévouement non partagé ; ses nobles idéaux ont sombré face à la dureté du réel.",
+    "aPhantom": "Le Fantôme (The Phantom)",
+    "dPhantom": "Agit discrètement dans l'ombre ; préserve sa vulnérabilité grâce à l'invisibilité et l'influence indirecte.",
+    "aConqueror": "Le Conquérant (The Conqueror)",
+    "dConqueror": "Dirige avec une volonté inébranlable ; refuse la faiblesse et brise les obstacles par une force décisive.",
+    "faqTitle": "Foire Aux Questions (FAQ)",
+    "faq1Q": "Quelles théories inspirent ce test ?",
+    "faq1A": "Il s'inspire de la psychologie narrative, des archétypes de Carl Jung et des mécanismes de défense face aux traumatismes.",
+    "faq2Q": "Ce test diagnostique-t-il des troubles antisociaux ?",
+    "faq2A": "Non. Il s'agit d'une réflexion divertissante autour des codes de la fiction, sans portée clinique.",
+    "faq3Q": "Mes réponses sont-elles enregistrées sur un serveur distant ?",
+    "faq3A": "Jamais. L'analyse des 16 choix est entièrement effectuée en local dans votre navigateur.",
+    "reviewDate": "Revue Éditoriale : Novembre 2026",
+    "reviewTeam": "DopaBrain Psychologie Narrative"
   }
 }

@@ -139,10 +139,31 @@
     "socialProof": "16の選択ジレンマ · 100%プライベート自己診断"
   },
   "about": {
-    "toggle": "About the Villain Origin Test",
-    "heading1": "How the Villain Origin Test Works",
-    "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
-    "heading2": "Understanding Villain Archetypes",
-    "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+    "toggle": "ヴィランオリジン診断と心理学的アーキタイプ解説",
+    "heading1": "物語心理学と逆境への対処反応",
+    "text1": "物語心理学において、ヴィランは生まれつき悪なのではなく、裏切りや理不尽な環境への防衛反応として形成されます。16の直感的な2択の選択から、あなたの無意識の防衛機制に近いキャラクター像を探求します。",
+    "boundary": "自己理解の境界線：本テストは教育・娯楽目的の自己対話ツールです。臨床診断や精神医学的評価の代わりとなるものではありません。",
+    "heading2": "6つの物語オリジン・アーキタイプ",
+    "aBetrayed": "裏切られし者 (The Betrayed)",
+    "dBetrayed": "壊れた信頼から誕生。傷つくことを恐れ、感情の壁を築き極度の警戒心を盾にします。",
+    "aMastermind": "黒幕・策略家 (The Mastermind)",
+    "dMastermind": "冷徹な計算と知略で全てを支配。感情を排した先見性で状況をコントロールします。",
+    "aAnarchist": "アナーキスト (The Anarchist)",
+    "dAnarchist": "偽善的なルールに幻滅し、混沌を受け入れ既存の体制を解体しようとします。",
+    "aFallenHero": "堕ちた英雄 (The Fallen Hero)",
+    "dFallenHero": "報われない献身に力尽き、高潔な理想が裏切られたことで闇へと転落しました。",
+    "aPhantom": "亡霊 (The Phantom)",
+    "dPhantom": "影に潜み、気配を消して背後から影響力を行使。自らの脆さを決して見せません。",
+    "aConqueror": "覇王・征服者 (The Conqueror)",
+    "dConqueror": "圧倒的な意志力で君臨。弱さを拒絶し、揺るぎない力で障害を打ち破ります。",
+    "faqTitle": "よくある質問 (FAQ)",
+    "faq1Q": "どのような心理学理論が背景にありますか？",
+    "faq1A": "物語心理学、ユングの元型論、防衛機制（合理化や孤立化など）を参考にし、逆境に対する架空のナラティブ反応を体系化しています。",
+    "faq2Q": "反社会性やパーソナリティ障害の診断になりますか？",
+    "faq2A": "いいえ。フィクションの登場人物の動機を楽しむためのエンターテインメント自己分析ツールであり、医療・診断行為ではありません。",
+    "faq3Q": "回答内容や診断結果は外部サーバーに送信されますか？",
+    "faq3A": "一切送信されません。すべての計算はお使いの端末のブラウザ内で100%完結して安全に処理されます。",
+    "reviewDate": "監修・編集：2026年11月",
+    "reviewTeam": "DopaBrain 物語心理学シリーズ"
   }
 }

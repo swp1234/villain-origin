@@ -139,10 +139,31 @@
     "socialProof": "16 dilemas · Reflexión 100% privada"
   },
   "about": {
-    "toggle": "About the Villain Origin Test",
-    "heading1": "How the Villain Origin Test Works",
-    "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
-    "heading2": "Understanding Villain Archetypes",
-    "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+    "toggle": "Sobre el Test de Origen de Villano y Arquetipos Psicológicos",
+    "heading1": "Psicología Narrativa y Respuestas a la Adversidad",
+    "text1": "En la psicología narrativa y la ficción, los villanos rara vez nacen malvados; se forjan a través de respuestas adaptativas a la traición, el aislamiento o la presión sistémica. A través de 16 dilemas binarios rápidos, esta prueba explora con qué arquetipo clásico resuena tu instinto protector.",
+    "boundary": "Límite de Autoexploración: Esta actividad es una herramienta narrativa educativa y recreativa. No constituye una evaluación clínica, psiquiátrica ni un diagnóstico médico.",
+    "heading2": "Seis Arquetipos de Origen",
+    "aBetrayed": "El Traicionado (The Betrayed)",
+    "dBetrayed": "Forjado en la confianza rota; levanta muros emocionales infranqueables y usa la hipervigilancia como coraza.",
+    "aMastermind": "La Mente Maestra (The Mastermind)",
+    "dMastermind": "Calcula cada resultado; recurre a la estrategia racional y al desapego para mantener el control absoluto.",
+    "aAnarchist": "El Anarquista (The Anarchist)",
+    "dAnarchist": "Desilusionado con las normas rígidas; abraza la imprevisibilidad y derriba estructuras limitantes.",
+    "aFallenHero": "El Héroe Caído (The Fallen Hero)",
+    "dFallenHero": "Agotado por el altruismo no correspondido; su luz se extingue cuando sus nobles ideales chocan con la dura realidad.",
+    "aPhantom": "El Fantasma (The Phantom)",
+    "dPhantom": "Opera discretamente desde las sombras; asegura su vulnerabilidad mediante la invisibilidad y el poder sutil.",
+    "aConqueror": "El Conquistador (The Conqueror)",
+    "dConqueror": "Lidera con voluntad implacable; percibe la debilidad como un peligro y enfrenta los obstáculos con fuerza decisiva.",
+    "faqTitle": "Preguntas Frecuentes (FAQ)",
+    "faq1Q": "¿Qué conceptos psicológicos inspiran este test?",
+    "faq1A": "Se inspira en la psicología narrativa, los arquetipos junguianos y los mecanismos de defensa (racionalización, retraimiento) ante la adversidad.",
+    "faq2Q": "¿Diagnostica conductas antisociales o trastornos de personalidad?",
+    "faq2A": "No. Es un recurso narrativo lúdico y educativo sobre tropos de ficción, sin validez clínica ni psiquiátrica.",
+    "faq3Q": "¿Se guardan mis respuestas o resultados en servidores externos?",
+    "faq3A": "Nunca. Las 16 respuestas se procesan al 100% en el navegador de tu dispositivo sin enviar ningún dato externo.",
+    "reviewDate": "Revisión Editorial: Noviembre 2026",
+    "reviewTeam": "DopaBrain Psicología Narrativa"
   }
 }

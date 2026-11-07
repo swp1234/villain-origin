@@ -139,10 +139,31 @@
     "socialProof": "16 Dilemmata · 100% private Reflexion"
   },
   "about": {
-    "toggle": "About the Villain Origin Test",
-    "heading1": "How the Villain Origin Test Works",
-    "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
-    "heading2": "Understanding Villain Archetypes",
-    "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+    "toggle": "Über den Schurken-Ursprungstest & Psychologische Archetypen",
+    "heading1": "Narrative Psychologie & Bewältigung von Widrigkeiten",
+    "text1": "In der narrativen Psychologie und Literatur werden Schurken selten böse geboren; sie entstehen durch Bewältigungsmechanismen infolge von Verrat, Ungerechtigkeit oder Druck. Durch 16 intuitive Entscheidungen erkundet dieser Test, welcher narrative Archetyp deinen unbewussten Schutzmustern entspricht.",
+    "boundary": "Hinweis zur Selbsterkenntnis: Dies ist ein pädagogisches und unterhaltsames Reflexionsinstrument. Es ersetzt keine klinische Diagnostik oder psychologische Beratung.",
+    "heading2": "Sechs Narrative Ursprungs-Archetypen",
+    "aBetrayed": "Der Verratene (The Betrayed)",
+    "dBetrayed": "Durch gebrochenes Vertrauen geformt; errichtet unüberwindbare Mauern und nutzt Hypervigilanz als Schutzschild.",
+    "aMastermind": "Der Stratege (The Mastermind)",
+    "dMastermind": "Berechnet jedes Ergebnis; nutzt kognitive Weitsicht und emotionale Distanz für uneingeschränkte Kontrolle.",
+    "aAnarchist": "Der Anarchist (The Anarchist)",
+    "dAnarchist": "Ernüchtert von heuchlerischen Regeln; begrüßt das Unvorhersehbare und zerschlägt einengende Systeme.",
+    "aFallenHero": "Der gefallene Held (The Fallen Hero)",
+    "dFallenHero": "Erschöpft von selbstloser Aufopferung; seine Ideale zerbrachen an der unbarmherzigen Realität.",
+    "aPhantom": "Das Phantom (The Phantom)",
+    "dPhantom": "Wirkt unbemerkt im Hintergrund; schützt seine Verwundbarkeit durch Unsichtbarkeit und indirekte Einflussnahme.",
+    "aConqueror": "Der Eroberer (The Conqueror)",
+    "dConqueror": "Befiehlt mit eiserner Willenskraft; sieht Schwäche als Gefahr und überwindet Hindernisse mit Entschlossenheit.",
+    "faqTitle": "Häufig gestellte Fragen (FAQ)",
+    "faq1Q": "Auf welchen Konzepten basiert der Test?",
+    "faq1A": "Er basiert auf narrativer Psychologie, Jungschen Archetypen und psychologischen Abwehrmechanismen bei der Bewältigung von Konflikten.",
+    "faq2Q": "Wird hier antisoziales Verhalten diagnostiziert?",
+    "faq2A": "Nein. Es handelt sich um ein rein fiktionales und unterhaltsames Reflexionsformat ohne klinische Aussagekraft.",
+    "faq3Q": "Werden meine Eingaben auf externen Servern gespeichert?",
+    "faq3A": "Niemals. Alle 16 Auswertungen laufen zu 100 % lokal in deinem Browser ab; es werden keine Daten übertragen.",
+    "reviewDate": "Redaktionelle Prüfung: November 2026",
+    "reviewTeam": "DopaBrain Narrative Psychologie"
   }
 }

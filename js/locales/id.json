@@ -139,10 +139,31 @@
     "socialProof": "16 dilema pilihan · Refleksi 100% pribadi"
   },
   "about": {
-    "toggle": "About the Villain Origin Test",
-    "heading1": "How the Villain Origin Test Works",
-    "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
-    "heading2": "Understanding Villain Archetypes",
-    "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+    "toggle": "Tentang Tes Asal Usul Villain & Arketipe Psikologis",
+    "heading1": "Psikologi Naratif & Respons Terhadap Kesulitan",
+    "text1": "Dalam psikologi naratif dan sastra, villain jarang sekali terlahir jahat; mereka terbentuk oleh respons terhadap pengkhianatan, ketidakadilan, atau tekanan ekstrem. Melalui 16 dilema biner kilat, tes ini mengungkap arketipe cerita yang selaras dengan insting perlindungan dirimu.",
+    "boundary": "Batasan Refleksi Diri: Pengalaman ini adalah sarana bercerita edukatif dan hiburan. Bukan evaluasi klinis atau diagnosis gangguan kepribadian.",
+    "heading2": "Enam Arketipe Asal Usul Naratif",
+    "aBetrayed": "Sang Terkhianati (The Betrayed)",
+    "dBetrayed": "Terlahir dari kepercayaan yang hancur; membangun dinding emosional kokoh dan menjadikan kewaspadaan tinggi sebagai perisai.",
+    "aMastermind": "Sang Dalang (The Mastermind)",
+    "dMastermind": "Memperhitungkan segala kemungkinan; memanfaatkan strategi dingin dan kecerdasan analitis untuk memegang kendali penuh.",
+    "aAnarchist": "Sang Anarkis (The Anarchist)",
+    "dAnarchist": "Kecewa dengan aturan kaku; menyambut kekacauan untuk meruntuhkan sistem yang membelenggu.",
+    "aFallenHero": "Pahlawan yang Gugur (The Fallen Hero)",
+    "dFallenHero": "Kelelahan akibat pengorbanan tanpa pamrih; idealisme luhurnya meredup saat bertabrakan dengan kenyataan pahit.",
+    "aPhantom": "Sang Hantu (The Phantom)",
+    "dPhantom": "Bergerak senyap di balik bayang-bayang; menjaga kerentanan diri lewat ketidakterlihatan dan pengaruh halus.",
+    "aConqueror": "Sang Penakluk (The Conqueror)",
+    "dConqueror": "Memimpin dengan tekad baja; memandang kelemahan sebagai risiko dan menerobos rintangan dengan kekuatan tegas.",
+    "faqTitle": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "faq1Q": "Konsep psikologi apa yang menjadi dasar tes ini?",
+    "faq1A": "Tes ini memadukan psikologi naratif, arketipe Jungian, serta mekanisme pertahanan diri saat menghadapi tekanan hidup.",
+    "faq2Q": "Apakah tes ini mendiagnosis perilaku antisosial?",
+    "faq2A": "Tidak. Ini adalah refleksi hiburan berbasis kiasan fiksi naratif, bukan asesmen kejiwaan atau klinis.",
+    "faq3Q": "Apakah jawaban dan hasil tes saya disimpan di server luar?",
+    "faq3A": "Tidak pernah. Seluruh pemrosesan berjalan 100% di browser perangkat Anda tanpa transmisi data eksternal.",
+    "reviewDate": "Tinjauan Editorial: November 2026",
+    "reviewTeam": "Seri Psikologi Naratif DopaBrain"
   }
 }

@@ -139,10 +139,31 @@
     "socialProof": "16 ikilem sorusu · %100 kişisel ve gizli"
   },
   "about": {
-    "toggle": "About the Villain Origin Test",
-    "heading1": "How the Villain Origin Test Works",
-    "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
-    "heading2": "Understanding Villain Archetypes",
-    "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+    "toggle": "Kötü Karakter Köken Testi ve Psikolojik Arketipler Hakkında",
+    "heading1": "Anlatı Psikolojisi ve Zorluklara Karşı Tepkiler",
+    "text1": "Anlatı psikolojisinde ve edebiyatta kötü karakterler doğuştan kötü değildir; ihanet, adaletsizlik veya ağır baskılara karşı geliştirdikleri savunma tepkileriyle şekillenirler. 16 hızlı ikili ikilemle, savunma mekanizmalarınızla örtüşen kurgusal arketipi keşfedin.",
+    "boundary": "Öz Farkındalık Sınırı: Bu test eğitici ve eğlenceli bir hikaye anlatımı aracıdır. Klinik bir değerlendirme veya tıbbi teşhis yerine geçmez.",
+    "heading2": "Altı Anlatısal Köken Arketipi",
+    "aBetrayed": "İhanete Uğrayan (The Betrayed)",
+    "dBetrayed": "Yıkılan güvenden doğmuştur; kimseyi yaklaştırmayan duygusal duvarlar örer ve tetikte olmayı zırh edinir.",
+    "aMastermind": "Dahi Planlayıcı (The Mastermind)",
+    "dMastermind": "Her ihtimali hesaplar; soğukkanlı stratejisi ve entelektüel öngörüsüyle kontrolü elinde tutar.",
+    "aAnarchist": "Anarşist (The Anarchist)",
+    "dAnarchist": "İkiyüzlü kurallardan bıkmıştır; kısıtlayıcı düzeni yıkmak için belirsizliği kucaklar.",
+    "aFallenHero": "Düşmüş Kahraman (The Fallen Hero)",
+    "dFallenHero": "Karşılıksız fedakarlıkla tükenmiştir; yüce idealleri acımasız gerçeklerle çarpışınca karanlığa yönelir.",
+    "aPhantom": "Hayalet (The Phantom)",
+    "dPhantom": "Gölgede sessizce hareket eder; görünmez kalarak kırılganlığını gizler ve arkadan yönlendirir.",
+    "aConqueror": "Fatih (The Conqueror)",
+    "dConqueror": "Sarsılmaz iradesiyle hükmeder; zayıflığı tehlike sayar ve engelleri kararlı gücüyle aşar.",
+    "faqTitle": "Sıkça Sorulan Sorular (SSS)",
+    "faq1Q": "Bu test hangi psikolojik kuramlardan esinlenmiştir?",
+    "faq1A": "Anlatı psikolojisi, Jung arketipleri ve zorluklar karşısındaki savunma mekanizmaları kuramlarından yararlanır.",
+    "faq2Q": "Bu test antisosyal kişilik bozukluğu tanısı koyar mı?",
+    "faq2A": "Kesinlikle hayır. Tamamen kurgusal arketiplere dayalı eğlenceli bir öz yansıtma deneyimidir.",
+    "faq3Q": "Seçimlerim veya sonuçlarım harici sunucularda saklanıyor mu?",
+    "faq3A": "Asla. 16 seçimin tüm hesaplamaları %100 yerel olarak tarayıcınızda gerçekleştirilir.",
+    "reviewDate": "Editöryal İnceleme: Kasım 2026",
+    "reviewTeam": "DopaBrain Anlatı Psikolojisi Serisi"
   }
 }

@@ -139,10 +139,31 @@
     "socialProof": "16 दुविधाएँ · 100% निजी आत्म-प्रतिबिंब"
   },
   "about": {
-    "toggle": "About the Villain Origin Test",
-    "heading1": "How the Villain Origin Test Works",
-    "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
-    "heading2": "Understanding Villain Archetypes",
-    "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+    "toggle": "खलनायक उत्पत्ति परीक्षण और मनोवैज्ञानिक आद्यरूप के बारे में",
+    "heading1": "कथात्मक मनोविज्ञान और विपत्ति प्रतिक्रिया",
+    "text1": "कथात्मक मनोविज्ञान और साहित्य में खलनायक जन्मजात नहीं होते; वे विश्वासघात, अन्याय या एकाकीपन की रक्षात्मक प्रतिक्रियाओं से बनते हैं। 16 त्वरित द्वि-विकल्पीय प्रश्नों के माध्यम से, यह परीक्षण आपके सहज सुरक्षात्मक तंत्र से मेल खाने वाले आद्यरूप का पता लगाता है।",
+    "boundary": "आत्म-जागरूकता सीमा: यह अनुभव एक शैक्षिक और मनोरंजक आत्म-चिंतन उपकरण है। यह कोई नैदानिक ​​मूल्यांकन या मनोचिकित्सा विकल्प नहीं है।",
+    "heading2": "छह कथात्मक उत्पत्ति आद्यरूप",
+    "aBetrayed": "विश्वासघात का शिकार (The Betrayed)",
+    "dBetrayed": "टूटे भरोसे से उपजा; भावनात्मक दीवारें खड़ी करता है और सतर्कता को अपनी ढाल बनाता है।",
+    "aMastermind": "मास्टरमाइंड (The Mastermind)",
+    "dMastermind": "हर परिणाम की गणना करता है; पूर्ण नियंत्रण बनाए रखने के लिए रणनीतिक सोच का उपयोग करता है।",
+    "aAnarchist": "अराजकतावादी (The Anarchist)",
+    "dAnarchist": "कठोर सामाजिक बंधनों से निराश; बंदिशों को तोड़ने के लिए अप्रत्याशितता को अपनाता है।",
+    "aFallenHero": "पतित नायक (The Fallen Hero)",
+    "dFallenHero": "निःस्वार्थ त्याग से थका हुआ; कठोर वास्तविकता से टकराकर अंधेरे की ओर मुड़ जाता है।",
+    "aPhantom": "छाया / प्रेत (The Phantom)",
+    "dPhantom": "पर्दे के पीछे से कार्य करता है; अदृश्य रहकर अपनी संवेदनशीलता की रक्षा करता है।",
+    "aConqueror": "विजेता (The Conqueror)",
+    "dConqueror": "दृढ़ इच्छाशक्ति से शासन करता है; कमजोरी को जोखिम मानता है और दृढ़ता से आगे बढ़ता है।",
+    "faqTitle": "अक्सर पूछे जाने वाले प्रश्न (FAQ)",
+    "faq1Q": "यह परीक्षण किन मनोवैज्ञानिक सिद्धांतों पर आधारित है?",
+    "faq1A": "यह कथा मनोविज्ञान, युंगियन आद्यरूपों और सुरक्षात्मक तंत्रों (रक्षा तंत्र) की अवधारणाओं पर आधारित है।",
+    "faq2Q": "क्या यह परीक्षण किसी विकार का निदान करता है?",
+    "faq2A": "नहीं। यह काल्पनिक कथाओं पर आधारित एक आत्म-चिंतन अनुभव है, कोई चिकित्सा निदान नहीं।",
+    "faq3Q": "क्या मेरे उत्तर बाहरी सर्वर पर सुरक्षित किए जाते हैं?",
+    "faq3A": "कभी नहीं। सभी 16 विकल्पों की गणना आपके डिवाइस ब्राउज़र में स्थानीय रूप से 100% संपन्न होती है।",
+    "reviewDate": "संपादकीय समीक्षा: नवंबर 2026",
+    "reviewTeam": "डोपाब्रेन कथात्मक मनोविज्ञान श्रृंखला"
   }
 }

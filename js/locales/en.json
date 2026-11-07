@@ -139,10 +139,31 @@
     "socialProof": "16 Dilemmas · 100% Private Reflection"
   },
   "about": {
-    "toggle": "About the Villain Origin Test",
-    "heading1": "How the Villain Origin Test Works",
-    "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
-    "heading2": "Understanding Villain Archetypes",
-    "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+    "toggle": "About the Villain Origin Test & Psychological Archetypes",
+    "heading1": "Narrative Psychology & Adversity Response",
+    "text1": "In narrative psychology and literature, villains are rarely born; they are shaped by their coping responses to betrayal, systemic injustice, isolation, or overwhelming pressure. Through 16 rapid-fire binary dilemmas, this reflection examines which classic narrative archetype aligns with your instinctive coping mechanisms.",
+    "boundary": "Self-Awareness Boundary: This experience is an educational and recreational storytelling prompt. It is not a clinical psychological evaluation, personality disorder assessment, or substitute for mental health counseling.",
+    "heading2": "Six Narrative Origin Archetypes",
+    "aBetrayed": "The Betrayed",
+    "dBetrayed": "Forged by broken trust; builds impenetrable emotional walls and uses hyper-vigilance as armor.",
+    "aMastermind": "The Mastermind",
+    "dMastermind": "Calculates every outcome; leverages intellectual foresight and detached strategy to maintain complete control.",
+    "aAnarchist": "The Anarchist",
+    "dAnarchist": "Disillusioned by rigid social constructs; embraces unpredictability and dismantles confining systems.",
+    "aFallenHero": "The Fallen Hero",
+    "dFallenHero": "Exhausted by selfless devotion without reciprocity; darkens when noble ideals collide with painful reality.",
+    "aPhantom": "The Phantom",
+    "dPhantom": "Operates quietly from the background; preserves emotional safety through invisibility and indirect influence.",
+    "aConqueror": "The Conqueror",
+    "dConqueror": "Commands through relentless willpower; views vulnerability as a risk and meets obstacles with decisive force.",
+    "faqTitle": "Frequently Asked Questions",
+    "faq1Q": "What psychological concepts inspire the Villain Origin Test?",
+    "faq1A": "The test draws on narrative psychology, Jungian archetypes, and psychological defense mechanisms such as rationalization, moral injury, and emotional withdrawal to explore how fictional narratives and personal identities interpret adversity.",
+    "faq2Q": "Does this test diagnose clinical traits or antisocial behavior?",
+    "faq2A": "No. The Villain Origin Test is an educational self-reflection and entertainment experience exploring narrative storytelling archetypes. It is not a clinical assessment, psychological evaluation, or psychiatric diagnostic tool.",
+    "faq3Q": "Are my test choices or archetype results saved on external servers?",
+    "faq3A": "Never. All 16 binary dilemma evaluations and archetype scores are computed 100% locally within your device browser. No personal responses or results are tracked, collected, or stored externally.",
+    "reviewDate": "Editorial Review: November 2026",
+    "reviewTeam": "DopaBrain Narrative Psychology Series"
   }
 }

@@ -139,10 +139,31 @@
     "socialProof": "16道抉择难题 · 100%私密自省"
   },
   "about": {
-    "toggle": "About the Villain Origin Test",
-    "heading1": "How the Villain Origin Test Works",
-    "text1": "The Villain Origin Test presents 16 rapid-fire binary choices. No overthinking allowed, just pure instinct. Tap left or right for each dilemma, and your pattern of choices reveals which villain archetype matches your personality.",
-    "heading2": "Understanding Villain Archetypes",
-    "text2": "Each villain archetype represents a different psychological response to adversity. From the calculating Mastermind to the chaotic Anarchist, these archetypes explore the darker side of human motivation in a fun, fictional context."
+    "toggle": "反派起源测试与心理原型指南",
+    "heading1": "叙事心理学与逆境应对机制",
+    "text1": "在叙事心理学与文学中，反派往往并非天生邪恶，而是在经历背叛、不公或极端压力后形成的心理防御产物。通过16道快节奏二选一抉择，探索你潜意识应对策略所呼应的角色原型。",
+    "boundary": "自我认知边界：本测试为教育与娱乐性的故事原型反思工具，不具备临床诊断或精神病理学评估效力。",
+    "heading2": "六大叙事起源原型",
+    "aBetrayed": "被背叛者 (The Betrayed)",
+    "dBetrayed": "因信任破裂而觉醒；筑起坚不可摧的情感高墙，以高度警惕抵御再次受伤。",
+    "aMastermind": "幕后主谋 (The Mastermind)",
+    "dMastermind": "运筹帷幄；摒弃情绪干扰，运用绝对的战略眼光与智力掌控全盘局面。",
+    "aAnarchist": "无政府主义者 (The Anarchist)",
+    "dAnarchist": "看透虚妄的规则；拥抱不可预测的混沌，致力于粉碎令人窒息的旧秩序。",
+    "aFallenHero": "堕落英雄 (The Fallen Hero)",
+    "dFallenHero": "倾尽全力的奉献换来空虚；高尚信念在残酷现实中崩塌，走向最深沉的黑暗。",
+    "aPhantom": "魅影 (The Phantom)",
+    "dPhantom": "藏匿于阴影之中；在无人察觉之处施加影响，将真实脆弱严密保护。",
+    "aConqueror": "征服者 (The Conqueror)",
+    "dConqueror": "以绝对意志主导一切；视软弱为危险，用无可撼动的强力扫清阻碍。",
+    "faqTitle": "常见问题解答 (FAQ)",
+    "faq1Q": "测试依据了哪些心理学理论？",
+    "faq1A": "结合了叙事心理学、荣格原型理论以及心理防御机制（如合理化、道德创伤等），探讨逆境应对模式。",
+    "faq2Q": "该测试是否诊断反社会人格倾向？",
+    "faq2A": "绝对不是。这仅是一项基于虚构文学原型的娱乐与趣味自省体验，不能替代任何医疗诊断。",
+    "faq3Q": "测试选项或结果会被上传至服务器吗？",
+    "faq3A": "绝不。所有16项二选一评估均在本地浏览器中即时计算，绝不收集或存储任何个人数据。",
+    "reviewDate": "学术与编辑审阅：2026年11月",
+    "reviewTeam": "DopaBrain 叙事心理学系列"
   }
 }
