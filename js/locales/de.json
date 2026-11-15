@@ -110,23 +110,24 @@
   "result": {
     "breakdown": "Bösewicht-Merkmale",
     "retake": "Nochmal machen",
-    "moreTests": "Weitere Tests",
-    "percentileStat": "Dein Schurken-Ursprung spiegelt deine Entscheidungsmuster in 16 dramatischen Dilemmata wider.",
-    "profileStat": "Dein Schurken-Ursprung spiegelt deine Entscheidungsmuster in 16 dramatischen Dilemmata wider."
+    "moreTests": "Weitere Tests"
   },
   "related": {
-    "villainType": "Bösewicht-Typ",
     "toxicTrait": "Toxische Eigenschaft",
     "npcTest": "NPC-Test",
     "redGreenFlag": "Red & Green Flags",
-    "socialBattery": "Soziale Batterie"
+    "darkCore": "Dark-Core-Test",
+    "shadowWork": "Schattenarbeit-Test"
   },
   "share": {
     "title": "Teile deinen Ursprung",
     "text": "Mein Bösewicht-Ursprung ist \"{archetype}\"! Was hat dich zum Bösewicht gemacht?",
     "twitter": "Auf X teilen",
     "copyUrl": "Link kopieren",
-    "copied": "Kopiert!"
+    "copied": "Kopiert!",
+    "saveCard": "Ergebniskarte Speichern",
+    "saved": "Karte Gespeichert!",
+    "saveFailed": "Speichern fehlgeschlagen."
   },
   "nav": {
     "back": "DopaBrain Startseite"
@@ -165,5 +166,15 @@
     "faq3A": "Niemals. Alle 16 Auswertungen laufen zu 100 % lokal in deinem Browser ab; es werden keine Daten übertragen.",
     "reviewDate": "Redaktionelle Prüfung: November 2026",
     "reviewTeam": "DopaBrain Narrative Psychologie"
+  },
+  "curated": {
+    "title": "Empfohlene Tiefenpsychologie-Bücher",
+    "disclosure": "Affiliate-Links",
+    "subtitle": "Vertiefen Sie Ihr Verständnis von Archetypen, Abwehrmechanismen und Schattenseiten.",
+    "cta": "Ansehen ->",
+    "jungTitle": "Der Mensch und seine Symbole — C.G. Jung",
+    "jungDesc": "Der Klassiker über Archetypen und wie der Schatten unsere innere Geschichte prägt.",
+    "greeneTitle": "The Laws of Human Nature — Robert Greene",
+    "greeneDesc": "Unbewusste Antriebe, Ego-Schutz und verdeckte soziale Dynamiken verstehen."
   }
 }

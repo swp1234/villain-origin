@@ -110,23 +110,24 @@
   "result": {
     "breakdown": "Tracos de Vilao",
     "retake": "Refazer Teste",
-    "moreTests": "Mais Testes",
-    "percentileStat": "Sua origem de vilão reflete seus padrões de escolha em 16 dilemas dramáticos.",
-    "profileStat": "Sua origem de vilão reflete seus padrões de escolha em 16 dilemas dramáticos."
+    "moreTests": "Mais Testes"
   },
   "related": {
-    "villainType": "Tipo de Vilao",
     "toxicTrait": "Traco Toxico",
     "npcTest": "Teste NPC",
     "redGreenFlag": "Red & Green Flags",
-    "socialBattery": "Bateria Social"
+    "darkCore": "Teste Dark Core",
+    "shadowWork": "Trabalho de Sombra"
   },
   "share": {
     "title": "Compartilhe Sua Origem",
     "text": "Minha origem vilao e \"{archetype}\"! O que te tornou o vilao?",
     "twitter": "Compartilhar no X",
     "copyUrl": "Copiar Link",
-    "copied": "Copiado!"
+    "copied": "Copiado!",
+    "saveCard": "Salvar Cartão",
+    "saved": "Cartão Salvo!",
+    "saveFailed": "Não foi possível salvar."
   },
   "nav": {
     "back": "DopaBrain Inicio"
@@ -165,5 +166,15 @@
     "faq3A": "De forma alguma. Todos os cálculos ocorrem 100% no navegador do seu dispositivo sem envio de dados.",
     "reviewDate": "Revisão Editorial: Novembro de 2026",
     "reviewTeam": "DopaBrain Psicologia Narrativa"
+  },
+  "curated": {
+    "title": "Guias de Psicologia da Sombra",
+    "disclosure": "Links de afiliado",
+    "subtitle": "Aprofunde-se em arquétipos, mecanismos de defesa e identidade narrativa.",
+    "cta": "Ver Guia ->",
+    "jungTitle": "O Homem e Seus Símbolos — Carl G. Jung",
+    "jungDesc": "Clássico essencial sobre arquétipos e como a sombra molda nossa narrativa interior.",
+    "greeneTitle": "As Leis da Natureza Humana — Robert Greene",
+    "greeneDesc": "Explore impulsos irracionais, defesa do ego e dinâmicas ocultas do comportamento."
   }
 }

@@ -192,8 +192,11 @@
     var archetypeNarrative = $('archetypeNarrative');
     var traitBars = $('traitBars');
     var retakeBtn = $('retakeBtn');
+    var saveCardBtn = $('saveCardBtn');
     var shareTwitterBtn = $('shareTwitter');
     var shareCopyBtn = $('shareCopy');
+    var shareCanvas = $('shareCanvas');
+    var curatedContainer = $('curated-resources-card');
     var themeToggle = $('themeToggle');
     var themeIcon = $('themeIcon');
     var langBtn = $('langBtn');
@@ -358,7 +361,10 @@
         renderPair();
 
         if (typeof gtag === 'function') {
-            gtag('event', 'quiz_start', { event_category: 'villain-origin' });
+            gtag('event', 'test_start', {
+                event_category: 'villain-origin',
+                app_name: 'villain-origin'
+            });
         }
     }
 
@@ -470,21 +476,15 @@
 
         // Trait breakdown bars
         renderTraitBars();
+        renderCuratedResources(winner);
         preserveLanguageLinks();
 
-        // Profile reflection stat
-        var percentileEl = document.getElementById('percentile-stat');
-        if (percentileEl) {
-            var pText = t('result.profileStat', 'Your archetype reflects choice patterns across 16 dramatic dilemmas.');
-            percentileEl.textContent = pText;
-        }
-
-        // GA4 event
+        // GA4 event (clean taxonomy without raw numeric score leak)
         if (typeof gtag === 'function') {
-            gtag('event', 'quiz_complete', {
+            gtag('event', 'test_complete', {
                 event_category: 'villain-origin',
-                event_label: winner,
-                value: scores[winner]
+                app_name: 'villain-origin',
+                result_type: winner
             });
         }
     }
@@ -546,6 +546,208 @@
         }
     }
 
+    function getCurrentLocale() {
+        var inst = getI18n();
+        return (inst && inst.currentLang) ? inst.currentLang : 'en';
+    }
+
+    function getShareUrl() {
+        return 'https://dopabrain.com/villain-origin/?lang=' + encodeURIComponent(getCurrentLocale()) + '&utm_source=share';
+    }
+
+    function getAmazonDomain(lang) {
+        var map = {
+            ja: 'amazon.co.jp',
+            de: 'amazon.de',
+            fr: 'amazon.fr',
+            es: 'amazon.es',
+            hi: 'amazon.in'
+        };
+        return map[lang] || 'amazon.com';
+    }
+
+    function renderCuratedResources(winner) {
+        if (!curatedContainer) return;
+        var lang = getCurrentLocale();
+        var domain = getAmazonDomain(lang);
+        var items = [
+            {
+                key: 'manAndSymbols',
+                asin: '0440351839',
+                title: t('curated.jungTitle', 'Man and His Symbols — Carl G. Jung'),
+                desc: t('curated.jungDesc', 'Explore archetypes and how the shadow shapes internal narrative.')
+            },
+            {
+                key: 'humanNature',
+                asin: '0525428143',
+                title: t('curated.greeneTitle', 'The Laws of Human Nature — Robert Greene'),
+                desc: t('curated.greeneDesc', 'Unpack hidden drives, ego armor, and social dynamics.')
+            }
+        ];
+
+        var html = '<div class="curated-resources-header">' +
+            '<h3 class="curated-resources-title">' + t('curated.title', 'Recommended Shadow Psychology Guides') + '</h3>' +
+            '<span class="curated-disclosure">' + t('curated.disclosure', 'Affiliate links') + '</span>' +
+            '</div>' +
+            '<p class="curated-resources-subtitle">' + t('curated.subtitle', 'Deepen your reflection on archetypes and defense mechanisms.') + '</p>' +
+            '<div class="curated-list">';
+
+        items.forEach(function(item) {
+            var href = 'https://www.' + domain + '/dp/' + item.asin + '?tag=dopabrain-20';
+            html += '<a class="curated-item" href="' + href + '" target="_blank" rel="noopener sponsored nofollow" data-resource-key="' + item.key + '">' +
+                '<div class="curated-item-top">' +
+                '<span class="curated-item-title">' + item.title + '</span>' +
+                '<span class="curated-item-cta">' + t('curated.cta', 'View Guide ->') + '</span>' +
+                '</div>' +
+                '<span class="curated-item-desc">' + item.desc + '</span>' +
+                '</a>';
+        });
+
+        html += '</div>';
+        curatedContainer.innerHTML = html;
+
+        curatedContainer.querySelectorAll('.curated-item').forEach(function(link) {
+            link.addEventListener('click', function() {
+                var key = link.getAttribute('data-resource-key');
+                var dest = link.getAttribute('href');
+                if (typeof gtag === 'function') {
+                    gtag('event', 'curated_resource_click', {
+                        app_name: 'villain-origin',
+                        resource_key: key,
+                        result_type: winner || '',
+                        content_locale: lang,
+                        cta_surface: 'curated_resources'
+                    });
+                    gtag('event', 'content_cta_click', {
+                        cta_type: 'curated_book',
+                        destination: dest,
+                        source: 'villain_origin'
+                    });
+                }
+            });
+        });
+    }
+
+    function wrapCanvasLines(ctx, text, maxWidth) {
+        var words = String(text || '').split(/\s+/);
+        var lines = [];
+        var current = '';
+        words.forEach(function(w) {
+            var test = current ? current + ' ' + w : w;
+            if (ctx.measureText(test).width > maxWidth && current) {
+                lines.push(current);
+                current = w;
+            } else {
+                current = test;
+            }
+        });
+        if (current) lines.push(current);
+        return lines;
+    }
+
+    function saveResultCard() {
+        if (!shareCanvas) return;
+        var winner = getWinningArchetype();
+        var icon = ARCHETYPE_ICONS[winner];
+        var arcName = t('archetypes.' + winner + '.name', winner);
+        var narrative = t('archetypes.' + winner + '.narrative', '');
+        var lang = getCurrentLocale();
+
+        var ctx = shareCanvas.getContext('2d');
+        shareCanvas.width = 1080;
+        shareCanvas.height = 1920;
+
+        var grad = ctx.createLinearGradient(0, 0, 1080, 1920);
+        grad.addColorStop(0, '#0c0618');
+        grad.addColorStop(0.5, '#1f0b3a');
+        grad.addColorStop(1, '#090915');
+        ctx.fillStyle = grad;
+        ctx.fillRect(0, 0, 1080, 1920);
+
+        ctx.fillStyle = 'rgba(168, 85, 247, 0.18)';
+        ctx.beginPath();
+        ctx.arc(540, 480, 310, 0, Math.PI * 2);
+        ctx.fill();
+
+        ctx.fillStyle = '#c084fc';
+        ctx.font = 'bold 34px system-ui, -apple-system, sans-serif';
+        ctx.textAlign = 'center';
+        ctx.fillText('DOPABRAIN · VILLAIN ORIGIN', 540, 170);
+
+        ctx.font = '190px system-ui, sans-serif';
+        ctx.fillText(icon, 540, 500);
+
+        ctx.fillStyle = '#f8fafc';
+        ctx.font = 'bold 72px system-ui, -apple-system, sans-serif';
+        ctx.fillText(arcName, 540, 680);
+
+        ctx.fillStyle = '#cbd5e1';
+        ctx.font = '38px system-ui, -apple-system, sans-serif';
+        var lines = wrapCanvasLines(ctx, narrative, 860).slice(0, 5);
+        lines.forEach(function(line, idx) {
+            ctx.fillText(line, 540, 790 + idx * 54);
+        });
+
+        var sorted = ARCHETYPES.slice().sort(function(a, b) {
+            return scores[b] - scores[a];
+        });
+        var maxScore = Math.max(scores[sorted[0]] || 1, 1);
+        var startY = 1140;
+        sorted.slice(0, 4).forEach(function(archKey, idx) {
+            var y = startY + idx * 125;
+            var label = ARCHETYPE_ICONS[archKey] + ' ' + t('archetypes.' + archKey + '.name', archKey);
+            var ratio = (scores[archKey] || 0) / maxScore;
+            ctx.textAlign = 'left';
+            ctx.fillStyle = '#e2e8f0';
+            ctx.font = 'bold 32px system-ui, -apple-system, sans-serif';
+            ctx.fillText(label, 120, y);
+
+            ctx.textAlign = 'right';
+            ctx.fillStyle = '#c084fc';
+            ctx.fillText(Math.round(ratio * 100) + '%', 960, y);
+
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.12)';
+            ctx.fillRect(120, y + 20, 840, 26);
+
+            ctx.fillStyle = '#a855f7';
+            ctx.fillRect(120, y + 20, Math.round(ratio * 840), 26);
+        });
+
+        ctx.textAlign = 'center';
+        ctx.fillStyle = '#94a3b8';
+        ctx.font = '30px system-ui, -apple-system, sans-serif';
+        ctx.fillText('dopabrain.com/villain-origin/?lang=' + lang, 540, 1780);
+
+        try {
+            var dataUrl = shareCanvas.toDataURL('image/png');
+            var a = document.createElement('a');
+            a.href = dataUrl;
+            a.download = 'villain-origin-' + winner + '.png';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+
+            if (saveCardBtn) {
+                saveCardBtn.textContent = t('share.saved', 'Card Saved!');
+                setTimeout(function() {
+                    saveCardBtn.textContent = t('share.saveCard', 'Save Origin Card');
+                }, 2000);
+            }
+            if (typeof gtag === 'function') {
+                gtag('event', 'save_image', {
+                    event_category: 'villain-origin',
+                    app_name: 'villain-origin',
+                    result_type: winner,
+                    save_surface: 'result_story_1080x1920'
+                });
+            }
+        } catch (err) {
+            if (saveCardBtn) {
+                saveCardBtn.textContent = t('share.saveFailed', 'Could not save card.');
+            }
+        }
+    }
+
     // --- Share: Twitter ---
     function shareTwitter() {
         var winner = getWinningArchetype();
@@ -553,7 +755,7 @@
         var text = fmt(t('share.text', 'My villain origin is "{archetype}"! What made you the villain?'), {
             archetype: arcName
         });
-        var url = 'https://dopabrain.com/villain-origin/';
+        var url = getShareUrl();
         window.open(
             'https://twitter.com/intent/tweet?text=' + encodeURIComponent(text) + '&url=' + encodeURIComponent(url),
             '_blank',
@@ -566,7 +768,7 @@
 
     // --- Share: Copy URL ---
     function copyUrl() {
-        var url = 'https://dopabrain.com/villain-origin/';
+        var url = getShareUrl();
         if (navigator.clipboard && navigator.clipboard.writeText) {
             navigator.clipboard.writeText(url).then(function() {
                 showCopiedFeedback();
@@ -631,6 +833,10 @@
             retakeBtn.addEventListener('click', function() {
                 showScreen(startScreen);
             });
+        }
+
+        if (saveCardBtn) {
+            saveCardBtn.addEventListener('click', saveResultCard);
         }
 
         if (shareTwitterBtn) {

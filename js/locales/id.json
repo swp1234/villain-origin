@@ -110,23 +110,24 @@
   "result": {
     "breakdown": "Sifat Penjahat",
     "retake": "Ulangi Tes",
-    "moreTests": "Tes Lainnya",
-    "percentileStat": "Asal-usul penjahatmu mencerminkan pola pilihan naluriah dari 16 dilema dramatis.",
-    "profileStat": "Asal-usul penjahatmu mencerminkan pola pilihan naluriah dari 16 dilema dramatis."
+    "moreTests": "Tes Lainnya"
   },
   "related": {
-    "villainType": "Tipe Penjahat",
     "toxicTrait": "Sifat Beracun",
     "npcTest": "Tes NPC",
     "redGreenFlag": "Red & Green Flag",
-    "socialBattery": "Baterai Sosial"
+    "darkCore": "Tes Dark Core",
+    "shadowWork": "Tes Shadow Work"
   },
   "share": {
     "title": "Bagikan Asal-Usulmu",
     "text": "Asal-usul penjahatku adalah \"{archetype}\"! Apa yang membuatmu jadi penjahat?",
     "twitter": "Bagikan di X",
     "copyUrl": "Salin Link",
-    "copied": "Tersalin!"
+    "copied": "Tersalin!",
+    "saveCard": "Simpan Kartu Origin",
+    "saved": "Kartu Tersimpan!",
+    "saveFailed": "Gagal menyimpan kartu."
   },
   "nav": {
     "back": "DopaBrain Beranda"
@@ -165,5 +166,15 @@
     "faq3A": "Tidak pernah. Seluruh pemrosesan berjalan 100% di browser perangkat Anda tanpa transmisi data eksternal.",
     "reviewDate": "Tinjauan Editorial: November 2026",
     "reviewTeam": "Seri Psikologi Naratif DopaBrain"
+  },
+  "curated": {
+    "title": "Panduan Psikologi Arketipe Pilihan",
+    "disclosure": "Tautan afiliasi",
+    "subtitle": "Pelajari lebih dalam arketipe bayangan, mekanisme pertahanan diri, dan narasi pribadi.",
+    "cta": "Lihat Panduan ->",
+    "jungTitle": "Man and His Symbols — Carl G. Jung",
+    "jungDesc": "Karya klasik tentang arketipe, ketidaksadaran kolektif, dan peran sisi gelap dalam cerita diri.",
+    "greeneTitle": "The Laws of Human Nature — Robert Greene",
+    "greeneDesc": "Membedah dorongan tersembunyi, pelindung ego, dan dinamika psikologis manusia."
   }
 }

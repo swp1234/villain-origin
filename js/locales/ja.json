@@ -110,23 +110,24 @@
   "result": {
     "breakdown": "ヴィラン特性",
     "retake": "もう一度",
-    "moreTests": "関連テスト",
-    "percentileStat": "あなたのヴィランタイプは16のドラマチックなジレンマにおける直感的な選択パターンを表しています。",
-    "profileStat": "あなたのヴィランタイプは16のドラマチックなジレンマにおける直感的な選択パターンを表しています。"
+    "moreTests": "関連テスト"
   },
   "related": {
-    "villainType": "ヴィランタイプ",
     "toxicTrait": "毒性特性",
     "npcTest": "NPC診断",
     "redGreenFlag": "レッド＆グリーンフラッグ",
-    "socialBattery": "ソーシャルバッテリー"
+    "darkCore": "ダークコア診断",
+    "shadowWork": "シャドウワーク診断"
   },
   "share": {
     "title": "結果をシェア",
     "text": "私のヴィラン・オリジンは「{archetype}」！あなたを悪役にしたのは何？",
     "twitter": "Xでシェア",
     "copyUrl": "リンクをコピー",
-    "copied": "コピー完了！"
+    "copied": "コピー完了！",
+    "saveCard": "結果カードを保存",
+    "saved": "保存しました！",
+    "saveFailed": "保存に失敗しました。"
   },
   "nav": {
     "back": "DopaBrain ホーム"
@@ -165,5 +166,15 @@
     "faq3A": "一切送信されません。すべての計算はお使いの端末のブラウザ内で100%完結して安全に処理されます。",
     "reviewDate": "監修・編集：2026年11月",
     "reviewTeam": "DopaBrain 物語心理学シリーズ"
+  },
+  "curated": {
+    "title": "おすすめの深層心理ガイド",
+    "disclosure": "アフィリエイト広告",
+    "subtitle": "元型・防衛機制・物語的アイデンティティをより深く読み解く厳選書籍です。",
+    "cta": "詳しく見る ->",
+    "jungTitle": "人間と象徴（Man and His Symbols）— C.G.ユング",
+    "jungDesc": "元型やシャドウがいかに内面の物語を形づくるかを探る古典的名著。",
+    "greeneTitle": "人間本性の法則 — ロバート・グリーン",
+    "greeneDesc": "自我の鎧やダークな衝動、人間関係の裏にある心理力学を解説。"
   }
 }

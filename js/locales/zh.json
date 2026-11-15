@@ -110,23 +110,24 @@
   "result": {
     "breakdown": "反派特质",
     "retake": "重新测试",
-    "moreTests": "相关测试",
-    "percentileStat": "你的反派起源反映了在16道戏剧性抉择中展现的本能模式。",
-    "profileStat": "你的反派起源反映了在16道戏剧性抉择中展现的本能模式。"
+    "moreTests": "相关测试"
   },
   "related": {
-    "villainType": "反派类型",
     "toxicTrait": "毒性特质",
     "npcTest": "NPC测试",
     "redGreenFlag": "红旗与绿旗测试",
-    "socialBattery": "社交电量测试"
+    "darkCore": "暗黑核心测试",
+    "shadowWork": "阴影探索测验"
   },
   "share": {
     "title": "分享你的起源",
     "text": "我的反派起源是「{archetype}」！是什么让你成为反派？",
     "twitter": "分享到X",
     "copyUrl": "复制链接",
-    "copied": "已复制！"
+    "copied": "已复制！",
+    "saveCard": "保存起源卡片",
+    "saved": "卡片已保存！",
+    "saveFailed": "保存失败，请重试。"
   },
   "nav": {
     "back": "DopaBrain 首页"
@@ -165,5 +166,15 @@
     "faq3A": "绝不。所有16项二选一评估均在本地浏览器中即时计算，绝不收集或存储任何个人数据。",
     "reviewDate": "学术与编辑审阅：2026年11月",
     "reviewTeam": "DopaBrain 叙事心理学系列"
+  },
+  "curated": {
+    "title": "推荐阴影心理学书单",
+    "disclosure": "含推广链接",
+    "subtitle": "深入探索人格原型、心理防御机制与叙事自我认同的经典著作。",
+    "cta": "查看详情 ->",
+    "jungTitle": "《人类及其象征》(Man and His Symbols) — 荣格",
+    "jungDesc": "探讨原型、集体无意识以及阴影如何塑造内在故事的心理学经典。",
+    "greeneTitle": "《人性法则》(The Laws of Human Nature)",
+    "greeneDesc": "罗伯特·格林 — 剖析自我防备、深层动机与社交博弈背后的心理驱动。"
   }
 }

@@ -110,23 +110,24 @@
   "result": {
     "breakdown": "Villain Traits",
     "retake": "Retake Test",
-    "moreTests": "More Tests",
-    "percentileStat": "Your archetype reflects choice patterns across 16 dramatic dilemmas.",
-    "profileStat": "Your archetype reflects choice patterns across 16 dramatic dilemmas."
+    "moreTests": "More Tests"
   },
   "related": {
-    "villainType": "Villain Type",
     "toxicTrait": "Toxic Trait",
     "npcTest": "NPC Test",
     "redGreenFlag": "Red & Green Flag",
-    "socialBattery": "Social Battery"
+    "darkCore": "Dark Core Test",
+    "shadowWork": "Shadow Work"
   },
   "share": {
     "title": "Share Your Origin",
     "text": "My villain origin is \"{archetype}\"! What made you the villain?",
     "twitter": "Share on X",
     "copyUrl": "Copy Link",
-    "copied": "Copied!"
+    "copied": "Copied!",
+    "saveCard": "Save Origin Card",
+    "saved": "Card Saved!",
+    "saveFailed": "Could not save card."
   },
   "nav": {
     "back": "DopaBrain Home"
@@ -165,5 +166,15 @@
     "faq3A": "Never. All 16 binary dilemma evaluations and archetype scores are computed 100% locally within your device browser. No personal responses or results are tracked, collected, or stored externally.",
     "reviewDate": "Editorial Review: November 2026",
     "reviewTeam": "DopaBrain Narrative Psychology Series"
+  },
+  "curated": {
+    "title": "Recommended Shadow Psychology Guides",
+    "disclosure": "Affiliate links",
+    "subtitle": "Deepen your reflection on archetypes, defense mechanisms, and narrative identity.",
+    "cta": "View Guide ->",
+    "jungTitle": "Man and His Symbols — Carl G. Jung",
+    "jungDesc": "Classic exploration of archetypes, the collective unconscious, and how the shadow shapes story.",
+    "greeneTitle": "The Laws of Human Nature — Robert Greene",
+    "greeneDesc": "Unpack irrational drives, ego armor, and dark-triad patterns in everyday social dynamics."
   }
 }

@@ -110,23 +110,24 @@
   "result": {
     "breakdown": "Kötü Adam Özellikleri",
     "retake": "Yeniden Yap",
-    "moreTests": "Daha Fazla Test",
-    "percentileStat": "Kötü adam kökenin 16 dramatik ikilemdeki içgüdüsel seçimlerini yansıtır.",
-    "profileStat": "Kötü adam kökenin 16 dramatik ikilemdeki içgüdüsel seçimlerini yansıtır."
+    "moreTests": "Daha Fazla Test"
   },
   "related": {
-    "villainType": "Kötü Adam Tipi",
     "toxicTrait": "Toksik Özellik",
     "npcTest": "NPC Testi",
     "redGreenFlag": "Kırmızı & Yeşil Bayrak",
-    "socialBattery": "Sosyal Batarya"
+    "darkCore": "Dark Core Testi",
+    "shadowWork": "Gölge Çalışması"
   },
   "share": {
     "title": "Kökenini Paylas",
     "text": "Kötü adam kökanim \"{archetype}\"! Seni kötü adam yapan ne?",
     "twitter": "X'te Paylas",
     "copyUrl": "Linki Kopyala",
-    "copied": "Kopyalandi!"
+    "copied": "Kopyalandi!",
+    "saveCard": "Sonuç Kartını Kaydet",
+    "saved": "Kart Kaydedildi!",
+    "saveFailed": "Kart kaydedilemedi."
   },
   "nav": {
     "back": "DopaBrain Ana Sayfa"
@@ -165,5 +166,15 @@
     "faq3A": "Asla. 16 seçimin tüm hesaplamaları %100 yerel olarak tarayıcınızda gerçekleştirilir.",
     "reviewDate": "Editöryal İnceleme: Kasım 2026",
     "reviewTeam": "DopaBrain Anlatı Psikolojisi Serisi"
+  },
+  "curated": {
+    "title": "Önerilen Arketip & Gölge Rehberleri",
+    "disclosure": "İş ortaklığı bağlantıları",
+    "subtitle": "Arketipler, savunma mekanizmaları ve anlatı kimliği üzerine derinlemesine okumalar.",
+    "cta": "İncele ->",
+    "jungTitle": "İnsan ve Sembolleri — Carl G. Jung",
+    "jungDesc": "Arketiplerin ve gölge yönün içsel hikâyemizi nasıl şekillendirdiğini anlatan başyapıt.",
+    "greeneTitle": "İnsan Doğasının Yasaları — Robert Greene",
+    "greeneDesc": "Bilinçdışı dürtüleri, ego kalkanlarını ve sosyal güç dinamiklerini çözümler."
   }
 }

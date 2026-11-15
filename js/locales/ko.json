@@ -110,23 +110,24 @@
   "result": {
     "breakdown": "빌런 특성",
     "retake": "다시 하기",
-    "moreTests": "관련 테스트",
-    "percentileStat": "당신의 빌런 오리진은 16가지 극적 딜레마에서 나타난 본능적인 선택 패턴입니다.",
-    "profileStat": "당신의 빌런 오리진은 16가지 극적 딜레마에서 나타난 본능적인 선택 패턴입니다."
+    "moreTests": "관련 테스트"
   },
   "related": {
-    "villainType": "빌런 유형",
     "toxicTrait": "독성 특성",
     "npcTest": "NPC 테스트",
     "redGreenFlag": "레드 & 그린 플래그",
-    "socialBattery": "사회적 배터리"
+    "darkCore": "다크 코어 테스트",
+    "shadowWork": "그림자 작업 퀴즈"
   },
   "share": {
     "title": "결과 공유하기",
     "text": "내 빌런 오리진은 \"{archetype}\"! 무엇이 당신을 빌런으로 만들었나?",
     "twitter": "X에 공유",
     "copyUrl": "링크 복사",
-    "copied": "복사 완료!"
+    "copied": "복사 완료!",
+    "saveCard": "오리진 카드 저장",
+    "saved": "카드 저장됨!",
+    "saveFailed": "카드 저장에 실패했습니다."
   },
   "nav": {
     "back": "DopaBrain 홈"
@@ -165,5 +166,15 @@
     "faq3A": "전혀 저장되지 않습니다. 16개 문항 평가 및 원형 점수 계산은 사용자의 기기 브라우저 내부에서 100% 로컬로 처리되며 외부로 전송되지 않습니다.",
     "reviewDate": "학술 및 편집 검토: 2026년 11월",
     "reviewTeam": "DopaBrain 서사 심리학 시리즈"
+  },
+  "curated": {
+    "title": "추천 그림자 심리 가이드",
+    "disclosure": "제휴 링크 포함",
+    "subtitle": "원형 심리학, 방어기제, 서사적 정체성을 깊이 탐구하는 추천 도서입니다.",
+    "cta": "도서 보기 ->",
+    "jungTitle": "인간과 상징 (Man and His Symbols) — 칼 융",
+    "jungDesc": "원형과 집단 무의식, 그리고 그림자가 우리의 내면 서사를 어떻게 빚어내는지 탐구합니다.",
+    "greeneTitle": "인간 본성의 법칙 (The Laws of Human Nature)",
+    "greeneDesc": "로버트 그린 — 자아의 갑옷과 어두운 충동, 인간관계의 심층 역학을 분석합니다."
   }
 }

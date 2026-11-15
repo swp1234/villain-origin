@@ -110,23 +110,24 @@
   "result": {
     "breakdown": "Rasgos de Villano",
     "retake": "Repetir Test",
-    "moreTests": "Mas Tests",
-    "percentileStat": "Tu origen de villano refleja tus patrones de elección en 16 dilemas dramáticos.",
-    "profileStat": "Tu origen de villano refleja tus patrones de elección en 16 dilemas dramáticos."
+    "moreTests": "Mas Tests"
   },
   "related": {
-    "villainType": "Tipo de Villano",
     "toxicTrait": "Rasgo Toxico",
     "npcTest": "Test NPC",
     "redGreenFlag": "Banderas Rojas y Verdes",
-    "socialBattery": "Batería Social"
+    "darkCore": "Test Dark Core",
+    "shadowWork": "Trabajo de Sombra"
   },
   "share": {
     "title": "Comparte Tu Origen",
     "text": "Mi origen villano es \"{archetype}\"! Que te convirtio en villano?",
     "twitter": "Compartir en X",
     "copyUrl": "Copiar Enlace",
-    "copied": "Copiado!"
+    "copied": "Copiado!",
+    "saveCard": "Guardar Tarjeta",
+    "saved": "Tarjeta Guardada",
+    "saveFailed": "No se pudo guardar."
   },
   "nav": {
     "back": "DopaBrain Inicio"
@@ -165,5 +166,15 @@
     "faq3A": "Nunca. Las 16 respuestas se procesan al 100% en el navegador de tu dispositivo sin enviar ningún dato externo.",
     "reviewDate": "Revisión Editorial: Noviembre 2026",
     "reviewTeam": "DopaBrain Psicología Narrativa"
+  },
+  "curated": {
+    "title": "Guías de Psicología Narrativa",
+    "disclosure": "Enlaces de afiliado",
+    "subtitle": "Profundiza en los arquetipos, mecanismos de defensa e identidad narrativa.",
+    "cta": "Ver Guía ->",
+    "jungTitle": "El Hombre y sus Símbolos — Carl G. Jung",
+    "jungDesc": "Obra clásica sobre los arquetipos y cómo la sombra da forma a nuestra historia interna.",
+    "greeneTitle": "Las Leyes de la Naturaleza Humana — Robert Greene",
+    "greeneDesc": "Analiza los impulsos inconscientes, el ego y las dinámicas de poder cotidianas."
   }
 }

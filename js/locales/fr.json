@@ -110,23 +110,24 @@
   "result": {
     "breakdown": "Traits de Vilain",
     "retake": "Refaire le Test",
-    "moreTests": "Plus de Tests",
-    "percentileStat": "Votre origine de vilain reflète vos schémas de choix à travers 16 dilemmes dramatiques.",
-    "profileStat": "Votre origine de vilain reflète vos schémas de choix à travers 16 dilemmes dramatiques."
+    "moreTests": "Plus de Tests"
   },
   "related": {
-    "villainType": "Type de Vilain",
     "toxicTrait": "Trait Toxique",
     "npcTest": "Test NPC",
     "redGreenFlag": "Red & Green Flags",
-    "socialBattery": "Batterie Sociale"
+    "darkCore": "Test Dark Core",
+    "shadowWork": "Travail de l’Ombre"
   },
   "share": {
     "title": "Partagez Votre Origine",
     "text": "Mon origine de vilain est \"{archetype}\" ! Qu'est-ce qui a fait de vous le vilain ?",
     "twitter": "Partager sur X",
     "copyUrl": "Copier le Lien",
-    "copied": "Copie !"
+    "copied": "Copie !",
+    "saveCard": "Enregistrer la Carte",
+    "saved": "Carte Enregistrée !",
+    "saveFailed": "Échec de la sauvegarde."
   },
   "nav": {
     "back": "DopaBrain Accueil"
@@ -165,5 +166,15 @@
     "faq3A": "Jamais. L'analyse des 16 choix est entièrement effectuée en local dans votre navigateur.",
     "reviewDate": "Revue Éditoriale : Novembre 2026",
     "reviewTeam": "DopaBrain Psychologie Narrative"
+  },
+  "curated": {
+    "title": "Guides de Psychologie des Archétypes",
+    "disclosure": "Liens affiliés",
+    "subtitle": "Explorez les archétypes, les mécanismes de défense et l’identité narrative.",
+    "cta": "Voir le Guide ->",
+    "jungTitle": "L’Homme et ses Symboles — Carl G. Jung",
+    "jungDesc": "L’ouvrage fondateur sur les archétypes et l’influence de l’ombre sur nos récits.",
+    "greeneTitle": "Les Lois de la Nature Humaine — Robert Greene",
+    "greeneDesc": "Décryptez les pulsions cachées, la posture de l’ego et les dynamiques sociales."
   }
 }

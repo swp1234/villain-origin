@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title data-i18n="meta.title">What Is Your Villain Origin Story? Free Test | DopaBrain</title>
     <meta name="description" data-i18n="meta.description" content="16 rapid-fire binary choices reveal your villain archetype! Are you The Mastermind, The Anarchist, or The Puppet Master? Free villain origin test with instant results.">
-    <meta name="dateModified" content="2026-11-07">
+    <meta name="dateModified" content="2026-11-15">
     <meta name="robots" content="max-image-preview:large">
 
     <meta property="og:title" content="What's Your Villain Origin Story? | DopaBrain">
@@ -211,23 +211,25 @@
                     <div class="share-section">
                         <h3 data-i18n="share.title">Share Your Origin</h3>
                         <div class="share-buttons">
+                            <button class="btn btn-share btn-save-card" id="saveCardBtn" data-i18n="share.saveCard">Save Origin Card</button>
                             <button class="btn btn-share btn-twitter" id="shareTwitter" data-i18n="share.twitter">Share on X</button>
                             <button class="btn btn-share btn-copy" id="shareCopy" data-i18n="share.copyUrl">Copy Link</button>
                         </div>
                     </div>
+                    <canvas id="shareCanvas" width="1080" height="1920" style="display:none;" aria-hidden="true"></canvas>
 
-                    <p class="percentile-stat" id="percentile-stat"></p>
+                    <div id="curated-resources-card" class="curated-resources"></div>
 
                     <div class="related-tests">
                         <h3 data-i18n="result.moreTests">More Tests</h3>
                         <div class="related-grid" id="related-grid">
-                            <a href="/villain-type/" data-base-href="/villain-type/" class="related-card" style="--card-color: #8e44ad">
-                                <span class="related-emoji">&#129497;</span>
-                                <span class="related-name" data-i18n="related.villainType">Villain Type</span>
+                            <a href="/dark-core/" data-base-href="/dark-core/" class="related-card" style="--card-color: #8e44ad">
+                                <span class="related-emoji">&#127761;</span>
+                                <span class="related-name" data-i18n="related.darkCore">Dark Core Test</span>
                             </a>
-                            <a href="/social-battery/" data-base-href="/social-battery/" class="related-card" style="--card-color: #2c3e50">
-                                <span class="related-emoji">&#128267;</span>
-                                <span class="related-name" data-i18n="related.socialBattery">Social Battery</span>
+                            <a href="/shadow-work/" data-base-href="/shadow-work/" class="related-card" style="--card-color: #6366f1">
+                                <span class="related-emoji">&#127762;</span>
+                                <span class="related-name" data-i18n="related.shadowWork">Shadow Work</span>
                             </a>
                             <a href="/toxic-trait/" data-base-href="/toxic-trait/" class="related-card" style="--card-color: #e74c3c">
                                 <span class="related-emoji">&#9760;</span>
@@ -248,7 +250,7 @@
 
     <!-- About Section -->
     <section class="about-section collapsible-section" id="about-section" style="max-width:680px;margin:32px auto;padding:0 16px;">
-      <details style="background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:14px;overflow:hidden;">
+      <details open style="background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:14px;overflow:hidden;">
         <summary data-i18n="about.toggle" style="min-height:48px;padding:14px 18px;color:#a855f7;cursor:pointer;font-size:15px;font-weight:700;list-style:none;display:flex;align-items:center;justify-content:space-between;box-sizing:border-box;touch-action:manipulation;">About the Villain Origin Test & Psychological Archetypes</summary>
         <div class="about-content" style="padding:0 18px 20px;box-sizing:border-box;">
           <h2 data-i18n="about.heading1" style="font-size:15px;color:#fff;margin:14px 0 8px;font-weight:700;border-left:3px solid #a855f7;padding-left:8px;">Narrative Psychology & Adversity Response</h2>
