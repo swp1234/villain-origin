@@ -117,7 +117,9 @@
     "npcTest": "NPC診断",
     "redGreenFlag": "レッド＆グリーンフラッグ",
     "darkCore": "ダークコア診断",
-    "shadowWork": "シャドウワーク診断"
+    "shadowWork": "シャドウワーク診断",
+    "emotionalAge": "感情年齢",
+    "ickFactor": "冷める瞬間テスト"
   },
   "share": {
     "title": "結果をシェア",

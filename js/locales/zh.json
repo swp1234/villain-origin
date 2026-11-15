@@ -117,7 +117,9 @@
     "npcTest": "NPC测试",
     "redGreenFlag": "红旗与绿旗测试",
     "darkCore": "暗黑核心测试",
-    "shadowWork": "阴影探索测验"
+    "shadowWork": "阴影探索测验",
+    "emotionalAge": "心理年龄",
+    "ickFactor": "下头瞬间测试"
   },
   "share": {
     "title": "分享你的起源",

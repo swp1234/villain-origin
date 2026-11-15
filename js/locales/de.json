@@ -117,7 +117,9 @@
     "npcTest": "NPC-Test",
     "redGreenFlag": "Red & Green Flags",
     "darkCore": "Dark-Core-Test",
-    "shadowWork": "Schattenarbeit-Test"
+    "shadowWork": "Schattenarbeit-Test",
+    "emotionalAge": "Emotionales Alter",
+    "ickFactor": "Ick-Faktor"
   },
   "share": {
     "title": "Teile deinen Ursprung",

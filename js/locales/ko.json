@@ -117,7 +117,9 @@
     "npcTest": "NPC 테스트",
     "redGreenFlag": "레드 & 그린 플래그",
     "darkCore": "다크 코어 테스트",
-    "shadowWork": "그림자 작업 퀴즈"
+    "shadowWork": "그림자 작업 퀴즈",
+    "emotionalAge": "감정 나이",
+    "ickFactor": "정떨어짐 테스트"
   },
   "share": {
     "title": "결과 공유하기",

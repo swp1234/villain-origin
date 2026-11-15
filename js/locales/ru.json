@@ -117,7 +117,9 @@
     "npcTest": "NPC Тест",
     "redGreenFlag": "Красный или зелёный флаг",
     "darkCore": "Тест Dark Core",
-    "shadowWork": "Работа с Тенью"
+    "shadowWork": "Работа с Тенью",
+    "emotionalAge": "Эмоц. возраст",
+    "ickFactor": "Триггер отторжения"
   },
   "share": {
     "title": "Поделитесь Своим Происхождением",
