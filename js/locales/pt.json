@@ -178,5 +178,11 @@
     "jungDesc": "Clássico essencial sobre arquétipos e como a sombra molda nossa narrativa interior.",
     "greeneTitle": "As Leis da Natureza Humana — Robert Greene",
     "greeneDesc": "Explore impulsos irracionais, defesa do ego e dinâmicas ocultas do comportamento."
+  },
+  "nextStep": {
+    "label": "Próximo passo recomendado",
+    "title": "Teste de Nível de Estresse",
+    "desc": "Transforme seu arquétipo de superação em um plano prático de 7 dias.",
+    "cta": "Fazer Teste de Estresse →"
   }
 }

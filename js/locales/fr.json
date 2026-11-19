@@ -178,5 +178,11 @@
     "jungDesc": "L’ouvrage fondateur sur les archétypes et l’influence de l’ombre sur nos récits.",
     "greeneTitle": "Les Lois de la Nature Humaine — Robert Greene",
     "greeneDesc": "Décryptez les pulsions cachées, la posture de l’ego et les dynamiques sociales."
+  },
+  "nextStep": {
+    "label": "Prochaine étape recommandée",
+    "title": "Test de Niveau de Stress",
+    "desc": "Transformez votre archétype face à l’adversité en plan anti-stress sur 7 jours.",
+    "cta": "Tester mon stress →"
   }
 }

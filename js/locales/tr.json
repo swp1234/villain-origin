@@ -178,5 +178,11 @@
     "jungDesc": "Arketiplerin ve gölge yönün içsel hikâyemizi nasıl şekillendirdiğini anlatan başyapıt.",
     "greeneTitle": "İnsan Doğasının Yasaları — Robert Greene",
     "greeneDesc": "Bilinçdışı dürtüleri, ego kalkanlarını ve sosyal güç dinamiklerini çözümler."
+  },
+  "nextStep": {
+    "label": "Önerilen Sonraki Adım",
+    "title": "Stres Seviyesi Testi",
+    "desc": "Zorluklarla başa çıkma arketipini 7 günlük pratik stres sıfırlama planına dönüştür.",
+    "cta": "Stres Testini Başlat →"
   }
 }

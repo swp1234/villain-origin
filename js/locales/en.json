@@ -178,5 +178,11 @@
     "jungDesc": "Classic exploration of archetypes, the collective unconscious, and how the shadow shapes story.",
     "greeneTitle": "The Laws of Human Nature — Robert Greene",
     "greeneDesc": "Unpack irrational drives, ego armor, and dark-triad patterns in everyday social dynamics."
+  },
+  "nextStep": {
+    "label": "Recommended Next Step",
+    "title": "Stress Level Check",
+    "desc": "Turn your adversity coping archetype into a practical 7-day stress reset plan.",
+    "cta": "Take Stress Check →"
   }
 }

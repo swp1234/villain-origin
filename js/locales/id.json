@@ -178,5 +178,11 @@
     "jungDesc": "Karya klasik tentang arketipe, ketidaksadaran kolektif, dan peran sisi gelap dalam cerita diri.",
     "greeneTitle": "The Laws of Human Nature — Robert Greene",
     "greeneDesc": "Membedah dorongan tersembunyi, pelindung ego, dan dinamika psikologis manusia."
+  },
+  "nextStep": {
+    "label": "Langkah Berikutnya",
+    "title": "Tes Tingkat Stres",
+    "desc": "Ubah pola kopingmu menjadi rencana pemulihan stres 7 hari yang praktis.",
+    "cta": "Mulai Tes Stres →"
   }
 }

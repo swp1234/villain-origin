@@ -178,5 +178,11 @@
     "jungDesc": "Obra clásica sobre los arquetipos y cómo la sombra da forma a nuestra historia interna.",
     "greeneTitle": "Las Leyes de la Naturaleza Humana — Robert Greene",
     "greeneDesc": "Analiza los impulsos inconscientes, el ego y las dinámicas de poder cotidianas."
+  },
+  "nextStep": {
+    "label": "Siguiente paso recomendado",
+    "title": "Test de Nivel de Estrés",
+    "desc": "Convierte tu arquetipo ante la adversidad en un plan de reinicio de 7 días.",
+    "cta": "Hacer Test de Estrés →"
   }
 }

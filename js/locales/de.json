@@ -178,5 +178,11 @@
     "jungDesc": "Der Klassiker über Archetypen und wie der Schatten unsere innere Geschichte prägt.",
     "greeneTitle": "The Laws of Human Nature — Robert Greene",
     "greeneDesc": "Unbewusste Antriebe, Ego-Schutz und verdeckte soziale Dynamiken verstehen."
+  },
+  "nextStep": {
+    "label": "Empfohlener nächster Schritt",
+    "title": "Stresslevel-Check",
+    "desc": "Verwandle deinen Bewältigungs-Archetyp in einen praktischen 7-Tage-Reset-Plan.",
+    "cta": "Stresstest starten →"
   }
 }

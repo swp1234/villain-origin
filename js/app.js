@@ -244,7 +244,7 @@
             var inst = getI18n();
             var lang = params.get('lang') || (inst && inst.currentLang ? inst.currentLang : 'ko') || 'ko';
             var base = (window.location.origin && window.location.origin !== 'null') ? window.location.origin : 'https://dopabrain.com';
-            document.querySelectorAll('.related-grid a, footer a').forEach(function(a) {
+            document.querySelectorAll('.related-grid a, #nextStepCta, footer a').forEach(function(a) {
                 var href = a.getAttribute('data-base-href') || a.getAttribute('href');
                 if (!href || href.startsWith('http') || href.startsWith('#')) return;
                 var url = new URL(href, base);
